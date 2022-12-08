@@ -1046,6 +1046,1100 @@ const questions = [
     ],
     rightAnswer: 3,
   },
+  {
+    question:
+      "Ushbu ibora “... – muhandis-texnik xodimlarning rahbarligi ostida bajaruvchilar jamoasi kuchi bilan ishlarni muayyan turi bajarishga tegishli barcha masalalarni echishni o‘z ichiga oladi” tashkil qilishni uchta turidan qaysi biriga to‘g‘ri keladi?",
+    options: [
+      "Ishlarni tashkil qilish",
+      "Mehnatni tashkil qilish",
+      "Qurilishni tashkil qilish",
+      "Tashkil qilishni hech qaysi bir turiga to‘g‘ri kelmaydi",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Hozirgi vaqtda O‘zbekistonda irrigatsiya tizimlarini boshqarishning qaysi prinsiplari qabul qilingan?",
+    options: [
+      "ma’muriy-xududiy  ",
+      "kollegial",
+      "xududiy",
+      "havzaviy                                                              ",
+    ],
+    rightAnswer: 3,
+  },
+  {
+    question:
+      "Izlanishlarni qaysi jarayonida loyihalashni barcha bosqichlarida xududni va qurilish maydonini tabiiy sharoitlarini o‘rganish amalga oshiriladi (sekin-asta detallashtirish bilan)?",
+    options: [
+      "Kameral",
+      "Ekologik",
+      "Muhandislik",
+      "Dala",
+    ],
+    rightAnswer: 2,
+  },
+  {
+    question:
+      " “Izlanishlar” iborasiga to‘g‘ri ta’rif bering",
+    options: [
+      "Izlanishlar – bu kelajakdagi ob’ektni loyihalash uchun boshlang‘ich ma’lumotlarni tayyorlash va uni qurish va foydalanish sharoitlarini har tomonlama taxlil qilish maqsadida kelajakdagi qurilish xududi yoki maydonini iqtisodiy va muhandislik (texnik) izlanishlar majmuidir ",
+      "Izlanishlar – bu qandaydir jarayonni (masalan, loyihalash, qurish, foydalanish) tayyorlash, sozlash, tartibga solish uchun barcha mehnat elementlarini ratsional birikishi bo‘yicha tadbirlar tizimidir",
+      "Izlanishlar – bu qandaydir inshoot yoki inshootlar majmuasini qurish bo‘yicha oldin tayyorlangan, texnik va iqtisodiy hisob-kitoblar bilan asoslangan va grafik  ko‘rinishida   chizilgan echimdir ",
+      "Izlanishlar – bu mutaxassislar jamoasini o‘zaro muvofiqlashtirilgan kompleks ishi natijasi bo‘lib, inshootlarni va ularni majmualarini qurish uchun texnik hujjat hisoblanadi.  ",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Qaysi izlanishlar jarayonida qurilish maydoni joylashish joyini tanlash va noqulay gidrometeorologik ta’sirlardan uni muhandislik himoyasi amalga oshiriladi?",
+    options: [
+      "Iqtisodiy",
+      "Dala",
+      "Ekologik",
+      "Muhandislik ",
+    ],
+    rightAnswer: 3,
+  },
+  {
+    question:
+      " “Loyiha” iborasiga to‘g‘ri ta’rif bering",
+    options: [
+      "Loyiha – bu qandaydir inshoot yoki inshootlar majmuasini qurish bo‘yicha oldin tayyorlangan, texnik va iqtisodiy hisob-kitoblar bilan asoslangan va grafik  ko‘rinishida   chizilgan echimdir ",
+      "Loyiha – bu mutaxassislar jamoasini o‘zaro muvofiqlashtirilgan kompleks ishi natijasi bo‘lib, inshootlarni va ularni majmualarini qurish uchun texnik hujjat hisoblanadi",
+      "Loyiha – bu kelajakdagi ob’ektni loyihalash uchun boshlang‘ich ma’lumotlarni tayyorlash va uni qurish va foydalanish sharoitlarini har tomonlama taxlil qilish maqsadida kelajakdagi qurilish xududi yoki maydonini iqtisodiy va muhandislik (texnik) izlanishlar majmuidir",
+      "Loyiha – bu qandaydir jarayonni (masalan, loyihalash, qurish, foydalanish) tayyorlash, sozlash, tartibga solish uchun barcha mehnat elementlarini ratsional birikishi bo‘yicha tadbirlar tizimidir",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Loyihalashning qaysi bosqichida qurilishni tashkil qilish loyihasi (QTQL) ishlab chiqiladi?",
+    options: [
+      "Uchinchi va to‘rtinchi bosqichlarda",
+      "Ikkinchi va uchinchi bosqichlarda",
+      "Ishchi hujjatlar tarkibida ikkinchi bosqichda va uning asosida",
+      "Tasdiqlanayotgan loyihalarning tarkibida bir bosqichli loyihalashda va ikki bosqichli loyihalashda birinchi bosqichida ",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Loyihalashning qaysi bosqichida ishlarni bajarish loyihasi (IBL) ishlab chiqiladi?",
+    options: [
+      "Ishchi hujjatlar tarkibida ikkinchi bosqichda va uning asosida ",
+      "Tasdiqlanayotgan loyihalarning tarkibida bir bosqichli loyihalashda va ikki bosqichli loyihalashda birinchi bosqichida ",
+      "Ikkinchi va uchinchi bosqichlarda",
+      "Uchinchi va to‘rtinchi bosqichlarda",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "QTQL va IBL tarkibida taqvimiy reja majburiy hujjat hisoblanadimi?",
+    options: [
+      "Tabiatni muhofaza qilish zonalari qurilishida to‘g‘ri hisoblanadi ",
+      "Hisoblanadi",
+      "Hisoblanmaydi",
+      "Noyob ob’ektlar qurilishida to‘g‘ri hisoblanadi",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question:
+      "Taqvimiy ",
+    options: [
+      "Chiziqli va tarmoqli",
+      "Umumiy va individual",
+      "Integral va hisobiy",
+      "Katta va kichik",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Tarmoqli grafikda qanday ishlar bo‘ladi?",
+    options: [
+      "Real va shartli",
+      "Katta va kichik",
+      "Bosh va ikkinchi darajali",
+      "Kerakli va keraksiz",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Tarmoqli grafikda real ish deb nimaga aytiladi?",
+    options: [
+      "Real ish – tarmoqli grafikni bunday elementi mavjud emas",
+      "Real ish – vaqt va resurslar sarf qilinadigan jarayon ",
+      "Real ish – qandaydir hodisadan oldingi har qanday jarayon",
+      "Real ish – bir yoki bir nechta ishlarni boshlanish imkoniyati uchun zarur va etarli, bir yoki bir nechta ishlarni tugatish haqiqatidir ",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question:
+      "Tarmoqli grafikda kritik yo‘l  deb nimaga aytiladi?",
+    options: [
+      "Kritik yo‘l  – bu boshlang‘ich hodisadan oxirgi hodisagacha to‘liq (eng uzun) yo‘l  ",
+      "Kritik yo‘l  – har bir hodisadan   oxirgi hodisagacha  eng uzun yo‘l qiymati",
+      " Kritik yo‘l  – oxirgi hodisaning boshlanish vaqtini o‘zgartirmasdan ushbu ishni bajarish davomiyligini oshirish mumkin bo‘lgan vaqtdir  ",
+      "Kritik yo‘l  – keyingi hodisani boshlanishini erta vaqtini o‘zgartirmasdan ishlarni bajarish davomiyligini oshirish mumkin bo‘lgan vaqt  ",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Hodisa potensiali deb nimaga aytiladi? ",
+    options: [
+      "Hodisa potensiali – har bir hodisadan   oxirgi hodisagacha  eng uzun yo‘l qiymati",
+      "Hodisa potensiali – ushbu hodisadan oldingi (boshlang‘ich hodisadan   ko‘rib chiqilayotgangacha  uzun yo‘l) barcha ishlarni bajarish uchun zarur bo‘lgan vaqt",
+      " Hodisa potensiali – oxirgi hodisaning boshlanish vaqtini o‘zgartirmasdan ushbu ishni bajarish davomiyligini oshirish mumkin bo‘lgan vaqtdir   ",
+      " Hodisa potensiali – keyingi hodisani boshlanishini erta vaqtini o‘zgartirmasdan ishlarni bajarish davomiyligini oshirish mumkin bo‘lgan vaqt  ",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      " “Taqvimiy rejalashtirish” iborasiga to‘g‘ri ta’rif bering ",
+    options: [
+      "Taqvimiy rejalashtirish – bu mutaxassislar jamoasini o‘zaro muvofiqlashtirilgan kompleks ishi natijasi bo‘lib, inshootlarni va ularni majmualarini qurish uchun texnik hujjat hisoblanadi",
+      "Taqvimiy rejalashtirish – taqvimiy rejani ishlab chiqish jarayoni ",
+      " Taqvimiy rejalashtirish – bu qandaydir jarayonni (masalan, loyihalash, qurish, foydalanish) tayyorlash, sozlash, tartibga solish uchun barcha mehnat elementlarini ratsional birikishi bo‘yicha tadbirlar tizimidir",
+      "Taqvimiy rejalashtirish – umumiy maqsadlarga muvofiq ishlarni yoki qandaydir harakatlarning tartibi, ketma-ketligi va bajarilish muddati va real imkoniyatlar bilan bog‘liq xolda nazarda tutuvchi oldindan belgilangan tadbirlar tizimidir",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Noruda qurilish materiallari konlari qurilishni qaysi bazasi ob’ektlariga kiradi?",
+    options: [
+      "ishlab-chiqarish bazalari                      ",
+      "tarkibiga ",
+      "xizmat ko‘rsatuvchi bazalar",
+      "yordamchi bazalar  ",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Yig‘ma temirbeton poligonlari qurilishni qaysi bazasi ob’ektlariga kiradi?",
+    options: [
+      "biror-bir baza tarkibiga kirmaydi",
+      "ishlab-chiqarish bazalari",
+      "xizmat ko‘rsatuvchi bazalar",
+      "yordamchi bazalar  ",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question:
+      "Texnikani ta’mirlash uchun yoyma-yig‘ma ustaxona dala shiyponi tarkibiga kiradimi?",
+    options: [
+      "Kiradi",
+      "Kirmaydi",
+      "Vaxtali shaharcha",
+      "Doimiy shaharcha   ",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Ta’riflardan qaysi biri to‘g‘ri? Bu erda: IBL – ishlarni bajarish loyihasi, QTQL – qurilishni tashkil qilish loyihasi ",
+    options: [
+      "Umum maydonli qurilish bosh plani qurilayotgan majmua bitta alohida ob’ektini ko‘tarish uchun zarur bo‘lgan xududni faqat o‘z ichiga oladi va IBL tarkibiga kiradi",
+      "Umum maydonli qurilish bosh plani butun qurilish maydoni xududini qamrab oladi va QTQL tarkibiga kiradi ",
+      "Umum maydonli qurilish bosh plani butun qurilish maydoni xududini qamrab oladi va IBL tarkibiga kiradi  ",
+      "Umum maydonli qurilish bosh plani qurilayotgan majmua bitta alohida ob’ektini ko‘tarish uchun zarur bo‘lgan xududni faqat o‘z ichiga oladi va QTQL tarkibiga kiradi",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Beton qorishmasini etkazib berishni qaysi asosiy texnologik sxemalari mavjud?",
+    options: [
+      "To‘ldiruvchilarni qazib olish joyidan tayyorlash joyigacha; tayyorlash joyidan bevosita betonlashtirilayotgan konstruksiyaga to‘kish joyigacha; tayyorlash joyidan boshqa tashish vositasi yoki qurilmasiga ag‘darish joyigacha; ta’minlovchidan qurilish maydonigacha ",
+      "Tayyorlash joyidan bevosita betonlashtirilayotgan konstruksiyaga to‘kish joyigacha; tayyorlash joyidan boshqa tashish vositasi yoki qurilmasiga ag‘darish joyigacha ",
+      "Tayyorlash joyidan bevosita betonlashtirilayotgan konstruksiyaga to‘kish joyigacha; beton qorishmasi sifatini nazorat qilishga qabul qilish punktigacha",
+      "Tayyorlash joyidan boshqa tashish vositasi yoki qurilmasiga ag‘darish joyigacha; beton qorishmasini to‘kish joyidan muayyan betonlashtirilayotgan uchastkagacha",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question:
+      "Qo‘shimchalardan foydalanib beton qaysi xossalarini o‘zgartirish mumkin?",
+    options: [
+      "mustahkamlik, chidamlilik, qattiqlik",
+      "mustahkamlik va chidamlilik",
+      "qattiqlik va mustahkamlilik",
+      "qattiqlik va chidamlilik",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question:
+      "Beton qorishmasini bir jinsliligini oshirish qanchalik beton mustahkamligini oshiradi?",
+    options: [
+      "oshirmaydi",
+      "15% gacha",
+      "10% gacha",
+      "10% dan ortiq",
+    ],
+    rightAnswer: 2,
+  },
+  {
+    question:
+      "M-400 oq sement asosidagi plastifikatorni qo‘shganda beton mustahkamligi qanday qiymatga o‘zgaradi?",
+    options: [
+      "o‘zgarmaydi",
+      "150%	ga oshadi",
+      "150% ga pasayadi",
+      "100% ga oshadi",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question:
+      "Beton qorishmasiga mikrokremnezyom qo‘shish bilan nimaga erishiladi?",
+    options: [
+      "betonni yuqori zichligi	",
+      "betonni yuqori mustahkamligi",
+      "betonni past zichligi",
+      "betonni past mustahkamligi",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Nanobetonda plastifikator sifatida nimadan foydalaniladi?",
+    options: [
+      "nanoqo‘shimchalar",
+      "nanoinitsiatorlar",
+      "nanozichlagichlar",
+      "nanonamlovchilar",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question:
+      "Betonni fibrovolokni bilan armaturalashda betonni qaysi xossalari oshadi?",
+    options: [
+      "mustahkamlik, haroratlar tafovutiga barqarorlik ",
+      "mustahkamlik, agressiv muhitlar va haroratlar tafovutiga barqarorlik",
+      "qattiqlik, agressiv muhitlar va haroratlar tafovutiga barqarorlik",
+      "mustahkamlik, har xil muhitlar va haroratlar tafovutiga barqarorlik ",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question:
+      "Beton va temirbeton buyumlarni tayyorlashda eng uzoq texnologik jarayon .... hisoblanadi.",
+    options: [
+      "betonni kuchlanishi",
+      "betonni ko‘payishi",
+      "betonni sovushi",
+      "betonni qotishi",
+    ],
+    rightAnswer: 3,
+  },
+  {
+    question:
+      "Temirbeton konstruksiyalarni kamchiliklariga nima kiradi?",
+    options: [
+      "katta og‘irlikda yuqori mustahkamlik ",
+      "katta og‘irlikda unchalik yuqori bo‘lmagan mustahkamlik",
+      "katta og‘irlikda yuqori narx",
+      "yuqori narxda unchalik yuqori bo‘lmagan mustahkamlik",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question:
+      "Oldindan zo‘riqtirilgan temirbeton muhim ... betonni layoqatsizligini oldini olish uchun mo‘ljallangan.",
+    options: [
+      "cho‘zuvchi kuchlanishlarga ",
+      "siquvchi kuchlanishlarga",
+      "egiluvchan kuchlanishlarga",
+      "suruvchi kuchlanishlarga",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Kompozit armatura qanday afzalliklarga ega?",
+    options: [
+      "Korrozion turg‘unlik, past issiqlik va elektr o‘tkazuvchanlik, ekologiklik",
+      "Korrozion turg‘unlikka qarshilik, past issiqlik va elektr o‘tkazuvchanlik, ekologiklik",
+      "Korrozion mustahkamlik, past issiqlik va elektr o‘tkazuvchanlik, ekologiklik",
+      "Korrozion turg‘unlik, baland issiqlik va elektr o‘tkazuvchanlik, ekologiklik",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Sulfit-achitqi brajka turidagi qo‘shimcha qadog‘i ... chegarasidan chiqmasligi kerak.",
+    options: [
+      "sement og‘irligining 0,1...0,3 % ",
+      "sement og‘irligining 0,3...0,5 % ",
+      "sement og‘irligining 1...3 % ",
+      "sement og‘irligining 5 % ",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Bitumli mastikadagi rulon tom yopma va gidroizolyatsiya materiallarini ulardan foydalanishdan oldin ... saqlash kerak. ",
+    options: [
+      "24 soat harorati +15°S dan past bo‘lmagan joyda ",
+      "24 soat harorati +25°S dan past bo‘lmagan joyda c",
+      "12 soat harorati +15°S dan past bo‘lmagan joyda ",
+      "24 soat harorati +10°S dan past bo‘lmagan joyda ",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Salbiy haroratlarda betonlashtirish uchun beton qorishmasi qanday haroratga ega bo‘lishi kerak?",
+    options: [
+      "beton qorishmasi +20…35°S chegarasida haroratga ega bo‘lishi kerak ",
+      "beton qorishmasi +30…40°S chegarasida haroratga ega bo‘lishi kerak ",
+      "beton qorishmasi +35…45°S chegarasida haroratga ega bo‘lishi kerak",
+      "beton qorishmasi +25…35°S chegarasida haroratga ega bo‘lishi kerak ",
+    ],
+    rightAnswer: 2,
+  },
+  {
+    question:
+      "G‘isht, penobeton yoki gazobeton bloklardan qish davrida bino devorlarini qo‘tarishda nimadan foydalaniladi? 	",
+    options: [
+      "Salbiy haroratlarda ishlashga mo‘ljallangan maxsus elimlar",
+      "Salbiy haroratlarda ishlashga mo‘ljallangan gidroizolyatsion materiallar ",
+      "Salbiy haroratlarda ishlashga mo‘ljallangan maxsus qo‘shimchalar",
+      "Salbiy haroratlarda ishlashga mo‘ljallangan sement qorishmasi",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Muzlashga qarshi qo‘shimchalar bilan birgalikda atrof muhitni salbiy haroratlarida qurilishda yotqizish qarishmasi markasi ...  ",
+    options: [
+      "M50 va ortiq",
+      "M40 va ortiq",
+      "M30 va ortiq",
+      "M20 va ortiq",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Bitumli mastikaga issiqlik izolyatsiya materiallarini yotqizish qanday haroratlarda bajarilishi mumkin? ",
+    options: [
+      "-30°S dan past bo‘lmaganda",
+      "-26°S dan past bo‘lmaganda",
+      "-20°S dan past bo‘lmaganda",
+      "-25°S dan past bo‘lmaganda",
+    ],
+    rightAnswer: 2,
+  },
+  {
+    question:
+      "Etil asosidagi mastikadan gidroizolyatsiyada atrof havoning harorati qanday bo‘lishi kerak?  ",
+    options: [
+      "+25°S va ortiq",
+      " -25°S va ortiq",
+      "-25°S va past",
+      "+25°S va past",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question:
+      "Bitumli cherepitsa bilan tom yopmani yopish bo‘yicha ishlarni ... haroratda bajarishga ruxsat beriladi. ",
+    options: [
+      "-5°S dan past bo‘lmagan",
+      "+5°S dan past bo‘lmagan",
+      "-10°S dan past bo‘lmagan",
+      "-15°S dan past bo‘lmagan",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Termoaktiv qolip deb nimaga aytiladi?",
+    options: [
+      "Termoaktiv qolip  -  bu isituvchi elementlar bilan jihozlangan ko‘p qatlamli shchitlar",
+      "Termoaktiv qolip -  bu isituvchi elementlar bilan jihozlangan ko‘p qatlamli plitalar",
+      "Termoaktiv qolip -  bu isituvchi elementlar bilan jihozlangan shchitlar ",
+      "Termoaktiv qolip -  bu isituvchi elementlar bilan jihozlangan plitalar",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Gidrotexnika inshootlari yaxlit konstruksiyalar konstruktiv choklarni joylashish joyi ...  belgilanadi. ",
+    options: [
+      "betonni zichlash vaqtida ",
+      "loyiha bilan",
+      "betonni yotqizish vaqtida",
+      "qurilish vaqtida",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question:
+      "Sement grunt tarkibida og‘irligi bo‘yicha sement miqdori ... tashkil qiladi.",
+    options: [
+      "8 dan 12 % gacha",
+      "10 dan 12 % gacha",
+      "10 dan 15 % gacha",
+      "8 dan 11 % gacha",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Er ishlarida mashinalar samaradorligini qanday oshirish mumkin?",
+    options: [
+      "Ish vaqtini yaxshilab, ish vaqtida turib qolishlarni qisqartirib",
+      "Metrologik xavfsizlikni oshirib  ",
+      "Texnik imkoniyatlarni kengaytirib ",
+      "Texnik imkoniyatlarni kengaytirib, ekologik xavfsizlikni kengaytirib",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Issiq va quruq iqlimda betonlashtirishda nima uchun namdan himoyalovchi plyonkalar qo‘llaniladi?",
+    options: [
+      "namdan himoyalovchi plyonkalar suv yo‘qolishini kamaytiradi, bug‘latish kamerasida betonni qotish sharoitiga yaqin bo‘lgan, termonamlik rejimini yuzaga keltiradi ",
+      "namdan himoyalovchi plyonkalar yangi yotqizilgan betonni mexanik ta’sirlardan himoya qiladi",
+      "namdan himoyalovchi plyonkalar suv yo‘qolishini kamaytiradi",
+      "issiq va quruq iqlimda betonlashtirishda namdan himoyalovchi plyonkalardan foydalanilmaydi",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Muzlash bo‘yicha qaysi mustahkamlikni kritik deb aytiladi?",
+    options: [
+      "Sovuqdan yuzaga kelgan yoriqlar paydo bo‘lish xavfi bo‘lmagandagi mustahkamlik",
+      "15 Mpa mustahkamlik",
+      "20 Mpa mustahkamlik",
+      "Blok yuzasiga bosim berish imkoniyati bo‘lmagandagi mustahkamlik",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Temirbeton buyumlarini ishlab chiqarishni texnologik tashkil qilishni qaysi usulida bitta joyda ikkinchi joyga bir tekis tezlikda uzluksiz, shu jumladan qotishni tezlashtirish uchun operatsiyalarni bajarishda buyum suriladi?",
+    options: [
+      "Konveyerli usulda",
+      "Kassetali usulda",
+      "Oqim-agregat usulida",
+      "Bunday usul mavjud emas",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Qaysi konlar qurilish materiallarini ishlab chiqaruvchi korxonalar (masalan, temirbeton buyumlar zavodlari uchun) uchun materiallarni etkazib beruvchi doimo ishlovchi korxonalar hisoblanadi?",
+    options: [
+      "Xom-ashyo",
+      "Sanoat",
+      "Bunday konlar mavjud emas",
+      "Qurilishga oid",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Qullanilish usuli bo‘yicha gidromexanizatsiyada gruntni gidravlik tashishni sinflarga ajrating",
+    options: [
+      "O‘zioqar va bosimli",
+      "Gorizontal va vertikal",
+      "Oddiy va murakkab",
+      "Mexanik va gidravlik",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Tarmoqli grafik asosida operativ boshqarish qaysi bosqichlardan iborat? ",
+    options: [
+      "ko‘rsatilganlarning barchasi",
+      "ishlarni haqiqiy xolati to‘g‘risida ma’lumotlarni tayyorlash; ushbu ma’lumotlar bo‘yicha tarmoqli grafik parametrlarini qayta hisoblash; rejalashtirilgan topshiriqlar bilan taqqoslaganda qurilish paytida yuzaga kelgan o‘zgarishlarni aniqlash",
+      "ishlarni bajarishni alternativ variantlarini ishlab chiqish; tahliliy hisob-kitoblarni bajarish va eng ratsional echimni amalga oshirishni amaliy imkoniyatlarini hisobga olgan xolda ularni tanlash",
+      " ishlarni keyingi muddatiga detallashtirilgan rejaviy topshiriqlarni ishlab chiqish va ularni bajaruvchilarga etkazish",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Qurilishda qaysi ehtiyojlar uchun suvdan foydalaniladi?",
+    options: [
+      "ishlab-chiqarish ehtiyojlari va yong‘inni o‘chirish uchun, xo‘jalik-ichimlik ehtiyojlari uchun",
+      "ishlab-chiqarish ehtiyojlari va yong‘inni o‘chirish uchun ",
+      "ichimlik ehtiyojlari uchun ",
+      "qurilishda suvdan foydalanilmaydi",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Ishlab-chiqarish bazalarini qaysi asosiy ob’ektlari mavjud? ",
+    options: [
+      "noruda qurilish materiallari konlari; maydalash-saralash zavodlari va qurilmalari; saralash-yuvish zavodlari va qurilmalari; sement-beton zavodlari; yig‘ma temirbeton zavodlari va poligonlari; armatura va qoliplash ustaxonalari",
+      "qurilish davrida zarur bo‘lgan, ombor xo‘jaligi, suv ta’minoti, eneriya ta’minoti, qozonhona, muqim kompressorlar, ta’mirlash ustaxonalari, garajlar, mashina saroylari, mashina to‘xtash joylari, yo‘llar va transport xo‘jaligi, aloqa, boshqa vaqtinchalik bino va inshootlar (agar zarurat bo‘lsa, vaqtinchalik yashash joylari va madaniy-maishiy qurilish) ",
+      "qurilayotgan majmuaning asosiy ob’ektlari",
+      "ishlab-chiqarish bazalari mavjud emas",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Yordamchi bazalarini qaysi asosiy ob’ektlari mavjud? ",
+    options: [
+      "qurilish davrida zarur bo‘lgan, ombor xo‘jaligi, suv ta’minoti, eneriya ta’minoti, qozonhona, muqim kompressorlar, ta’mirlash ustaxonalari, garajlar, mashina saroylari, mashina to‘xtash joylari, yo‘llar va transport xo‘jaligi, aloqa, boshqa vaqtinchalik bino va inshootlar (agar zarurat bo‘lsa, vaqtinchalik yashash joylari va madaniy-maishiy qurilish) ",
+      "noruda qurilish materiallari konlari; maydalash-saralash zavodlari va qurilmalari; saralash-yuvish zavodlari va qurilmalari; sement-beton zavodlari; yig‘ma temirbeton zavodlari va poligonlari; armatura va qoliplash ustaxonalari",
+      "qurilayotgan majmuaning asosiy ob’ektlari",
+      "ishlab-chiqarish bazalari mavjud emas",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Quruvchilar shaharchasining qaysi biriga quyidagi ta’rif to‘g‘ri keladi – “… bu shaharchada joylashtiriladigan, ishlab chiqarish bo‘linmalarini qaytadan joylashtirish bilan bog‘liq xolda bir joyda ishlash muddatini chegaralashdan iborat, xususiyatga ega bo‘lganob’ekt qurilishi davrida yaratiladigan, aholi yashash punktidir”?",
+    options: [
+      "quruvchilarning vaqtinchalik shaharchasi                 ",
+      "quruvchilarning doimiy shaharchasi                 ",
+      "quruvchilarning xizmat ko‘rsatuvchi shaharchasi                 ",
+      "shahar turidagi quruvchilarning shaharchasi ",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Vaxtali shaharchalar qancha muddatga yashashga hisoblangan? ",
+    options: [
+      "1.5 yilgacha qisqa muddatli yashashga ",
+      "bunday shaharchalar mavjud emas",
+      "yashash davomiyligi chegaralanmagan",
+      "15 yilgacha uzoq muddatga yashashga",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Qurilish bosh planini baholashda qo‘llaniladigan texnik-iqtisodiy ko‘rsatkichlar ... ",
+    options: [
+      "ko‘rsatilganlarning barchasi ",
+      "1 ga qurilishga vaqtinchalik yo‘llar, muhandislik kommunikatsiyalari, elektr tarmoqlarini uzunligi va o‘rnatishning narxi",
+      "vaqtinchalik bino va inshootlarni qurilishi va 1 ga qurilish maydonini jihozlash bilan bog‘liq bo‘lgan er, tosh, yo‘l va boshqa ishlarning hajmi ",
+      "foizda qurilish xo‘jaligini narxining ob’ekt qurilishini umumiy narxiga nisbatan ",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Qurilish qaysi ikkita tizimdan (murakkab ishlab-chiqarish tizimi) iborat?",
+    options: [
+      "boshqaruvchi va boshqariladigan",
+      "asosiy va yordamchi",
+      "kadrli va asosiy",
+      "birinchi va ikkinchi",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Boshqarish tizimini tuzilishi va uni alohida elementlarining o‘zaro bog‘liqligi boshqarishni tashkiliy tuzilmasi bilan belgilanadi. Boshqarishni tashkiliy tuzilmasi aytib bering.",
+    options: [
+      "chiziqli, funksional, chiziqli-funksional",
+      "tarmoqli, chiziqli, tarmoqli-chiziqli",
+      "boshqaruvchi va boshqariladigan",
+      "bosh va otalikka olingan",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Boshqarishni qaysi ma’muriy usullari mavjud?",
+    options: [
+      "tashkiliy va boshqara oladigan",
+      "bevosita va qo‘shimcha ",
+      "bir yo‘la va uzoq muddatli",
+      "bunday usullar mavjud emas",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Har bir ishchining javobgarligi va moddiy qizishini oshirishga qaysi usullar imkon to‘g‘diradi?",
+    options: [
+      "iqtisodiy ",
+      "ijtimoiy-psixologik",
+      "ma’muriy",
+      "ma’muriy-ijtimoiy",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Betonqorish qurilmasida beton qorishmasini tashkil etuvchilardan qaysi biri pnevmoquvurtashgichlar bo‘yicha tashiladi?",
+    options: [
+      "Sement",
+      "Suv",
+      "Qum",
+      "Shag‘al",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Quyqaning tezligi 1.5…4,0 m/s bo‘lganda, quyqa bilan qanday hodisa yuz beradi?",
+    options: [
+      "Quyqa ko‘rsatilgan tezlik bilan tashiladi",
+      "Aralashmadan grunt cho‘kadi, suv tinadi",
+      "Quyqa o‘z harakatini davot ettiradi",
+      "Gidromexanizatsiyada quyqa bunday tezlikka  ega bo‘lmaydi",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Betonqorish qurilmasida qaysi to‘ldiruvchilarni tashish uchun tasmali tranportyorlar qo‘llaniladi?",
+    options: [
+      "Qum va yirik to‘ldiruvchilar uchun",
+      "Sement uchun",
+      "Qum va suv aralashmasi uchun",
+      "Tasmali tranportyorlar qo‘llanilmaydi",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Nima uchun qurilish choklarida shtrablar – beton blokida o‘yiqlar yoki turtib chiqqan joylar o‘rnatiladi?",
+    options: [
+      "Ikki qo‘shni blok betonini yaxshiroq birikishi uchun",
+      "Bloklarda betonning mustahkamlik xarakteristikalarini oshirish uchun",
+      "Ishlarni mehnat sarfini kamaytirish uchun",
+      "Ishlarni narxini pasaytirish uchun",
+    ],
+    rightAnswer: 0,
+  },
+  
+  {
+    question:
+      "Me’yoriy hujjat bo‘yicha ob’ekt qurilish davomiyligini aniqlashda xududning zilzilabardoshligi, cho‘l zonasida ishlash sharoitlari, cho‘kishga qarshi tadbirlar mavjudligi va boshqalar qanday inobatga olinadi? ",
+    options: [
+      "Maxsus koeffitsient yordamida inobatga olinadi",
+      "Bu ko‘rsatkichlar inobatga olinmaydi",
+      "Aniqlanayotgan davomiylikka foiz nisbatida qo‘shish yo‘li bilan inobatga olinadi",
+      "Qurilgan ob’ektlar bilan taqqoslash yo‘li bilan inobatga olinadi",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Qalinligi 15 sm armaturalangan plita bilan (μ= 0,3 % armaturalanish koeffitsienti bilan) konus cho‘kishi 6...8 sm mu’tadil plastik beton qorishmasini zichlash uchun qaysi turdagi titratgich to‘g‘ri keladi?",
+    options: [
+      "Yuzaki titratgich",
+      "Chuqurlik titratgichi",
+      "Tashqi titratgich",
+      "Oddiy titratgich",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Quyqaning tezligi 1.5…4,0 m/s bo‘lganda, quyqa bilan qanday hodisa yuz beradi?",
+    options: [
+      "Quyqa ko‘rsatilgan tezlik bilan tashiladi",
+      "Aralashmadan grunt cho‘kadi, suv tinadi",
+      "Quyqa o‘z harakatini davot ettiradi",
+      "Gidromexanizatsiyada quyqa bunday tezlikka  ega bo‘lmaydi",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Betonqorish qurilmasida qaysi to‘ldiruvchilarni tashish uchun tasmali tranportyorlar qo‘llaniladi?",
+    options: [
+      "Qum va yirik to‘ldiruvchilar uchun",
+      "Sement uchun",
+      "Qum va suv aralashmasi uchun",
+      "Tasmali tranportyorlar qo‘llanilmaydi",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Nima uchun qurilish choklarida shtrablar – beton blokida o‘yiqlar yoki turtib chiqqan joylar o‘rnatiladi?",
+    options: [
+      "Ikki qo‘shni blok betonini yaxshiroq birikishi uchun",
+      "Bloklarda betonning mustahkamlik xarakteristikalarini oshirish uchun",
+      "Ishlarni mehnat sarfini kamaytirish uchun",
+      "Ishlarni narxini pasaytirish uchun",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Qalinligi 15 sm armaturalangan plita bilan (μ= 0,3 % armaturalanish koeffitsienti bilan) konus cho‘kishi 6...8 sm mu’tadil plastik beton qorishmasini zichlash uchun qaysi turdagi titratgich to‘g‘ri keladi?",
+    options: [
+      "Yuzaki titratgich",
+      "Chuqurlik titratgichi",
+      "Tashqi titratgich",
+      "Oddiy titratgich",
+    ],
+    rightAnswer: 0,
+  },
+  
+  {
+    question:
+      "Me’yoriy hujjat bo‘yicha ob’ekt qurilish davomiyligini aniqlashda xududning zilzilabardoshligi, cho‘l zonasida ishlash sharoitlari, cho‘kishga qarshi tadbirlar mavjudligi va boshqalar qanday inobatga olinadi? ",
+    options: [
+      "Maxsus koeffitsient yordamida inobatga olinadi",
+      "Bu ko‘rsatkichlar inobatga olinmaydi",
+      "Aniqlanayotgan davomiylikka foiz nisbatida qo‘shish yo‘li bilan inobatga olinadi",
+      "Qurilgan ob’ektlar bilan taqqoslash yo‘li bilan inobatga olinadi",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Quyqaning tezligi 1.5…4,0 m/s bo‘lganda, quyqa bilan qanday hodisa yuz beradi?",
+    options: [
+      "Quyqa ko‘rsatilgan tezlik bilan tashiladi",
+      "Aralashmadan grunt cho‘kadi, suv tinadi",
+      "Quyqa o‘z harakatini davot ettiradi",
+      "Gidromexanizatsiyada quyqa bunday tezlikka  ega bo‘lmaydi",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Betonqorish qurilmasida qaysi to‘ldiruvchilarni tashish uchun tasmali tranportyorlar qo‘llaniladi?",
+    options: [
+      "Qum va yirik to‘ldiruvchilar uchun",
+      "Sement uchun",
+      "Qum va suv aralashmasi uchun",
+      "Tasmali tranportyorlar qo‘llanilmaydi",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Nima uchun qurilish choklarida shtrablar – beton blokida o‘yiqlar yoki turtib chiqqan joylar o‘rnatiladi?",
+    options: [
+      "Ikki qo‘shni blok betonini yaxshiroq birikishi uchun",
+      "Bloklarda betonning mustahkamlik xarakteristikalarini oshirish uchun",
+      "Ishlarni mehnat sarfini kamaytirish uchun",
+      "Ishlarni narxini pasaytirish uchun",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Qalinligi 15 sm armaturalangan plita bilan (μ= 0,3 % armaturalanish koeffitsienti bilan) konus cho‘kishi 6...8 sm mu’tadil plastik beton qorishmasini zichlash uchun qaysi turdagi titratgich to‘g‘ri keladi?",
+    options: [
+      "Yuzaki titratgich",
+      "Chuqurlik titratgichi",
+      "Tashqi titratgich",
+      "Oddiy titratgich",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Quyqaning tezligi 1.5…4,0 m/s bo‘lganda, quyqa bilan qanday hodisa yuz beradi?",
+    options: [
+      "Quyqa ko‘rsatilgan tezlik bilan tashiladi",
+      "Aralashmadan grunt cho‘kadi, suv tinadi",
+      "Quyqa o‘z harakatini davot ettiradi",
+      "Gidromexanizatsiyada quyqa bunday tezlikka  ega bo‘lmaydi",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Betonqorish qurilmasida qaysi to‘ldiruvchilarni tashish uchun tasmali tranportyorlar qo‘llaniladi?",
+    options: [
+      "Qum va yirik to‘ldiruvchilar uchun",
+      "Sement uchun",
+      "Qum va suv aralashmasi uchun",
+      "Tasmali tranportyorlar qo‘llanilmaydi",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Nima uchun qurilish choklarida shtrablar – beton blokida o‘yiqlar yoki turtib chiqqan joylar o‘rnatiladi?",
+    options: [
+      "Ikki qo‘shni blok betonini yaxshiroq birikishi uchun",
+      "Bloklarda betonning mustahkamlik xarakteristikalarini oshirish uchun",
+      "Ishlarni mehnat sarfini kamaytirish uchun",
+      "Ishlarni narxini pasaytirish uchun",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Qalinligi 15 sm armaturalangan plita bilan (μ= 0,3 % armaturalanish koeffitsienti bilan) konus cho‘kishi 6...8 sm mu’tadil plastik beton qorishmasini zichlash uchun qaysi turdagi titratgich to‘g‘ri keladi?",
+    options: [
+      "Yuzaki titratgich",
+      "Chuqurlik titratgichi",
+      "Tashqi titratgich",
+      "Oddiy titratgich",
+    ],
+    rightAnswer: 0,
+  },
+  
+  {
+    question:
+      "Me’yoriy hujjat bo‘yicha ob’ekt qurilish davomiyligini aniqlashda xududning zilzilabardoshligi, cho‘l zonasida ishlash sharoitlari, cho‘kishga qarshi tadbirlar mavjudligi va boshqalar qanday inobatga olinadi? ",
+    options: [
+      "Maxsus koeffitsient yordamida inobatga olinadi",
+      "Bu ko‘rsatkichlar inobatga olinmaydi",
+      "Aniqlanayotgan davomiylikka foiz nisbatida qo‘shish yo‘li bilan inobatga olinadi",
+      "Qurilgan ob’ektlar bilan taqqoslash yo‘li bilan inobatga olinadi",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Qolip ishlari mehnat sarfi va narxiga qolipni aylanish ko‘rsatkichini o‘zgarishi qanday ta’sir ko‘rsatadi?",
+    options: [
+      "Agar qoliplarni aylanishini oshirsa, qolip ishlari mehnat sarfi va narxini kamaytirish mumkin",
+      "Agar qoliplarni aylanishini kamaytirsa, qolip ishlari mehnat sarfi va narxini kamaytirish mumkin ",
+      "Qoliplarni aylanishi ko‘rsatkichini o‘zgarishi qolip ishlari mehnat sarfi va narxiga ta’sir ko‘rsatmaydi",
+      "Agar qoliplarni aylanishini oshirsa, qolip ishlari mehnat sarfi va narxini oshirish mumkin ",
+    ],
+    rightAnswer: 0,
+  },
+  
+  {
+    question:
+      "Quyqaning tezligi 1.5…4,0 m/s bo‘lganda, quyqa bilan qanday hodisa yuz beradi?",
+    options: [
+      "Quyqa ko‘rsatilgan tezlik bilan tashiladi",
+      "Aralashmadan grunt cho‘kadi, suv tinadi",
+      "Quyqa o‘z harakatini davot ettiradi",
+      "Gidromexanizatsiyada quyqa bunday tezlikka  ega bo‘lmaydi",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Qanday xolatda beton qorishmasini qoidalarga rioya qilgan xolda zichlanayapti deb ta’kidlash mumkin?",
+    options: [
+      "Agar chuqurlik titratgichlari bilan zichlashda uni pastda yotuvchi beton qorishmasi qatlamiga 5...15 sm ga chuqurlashishi ta’minlangan xolatda",
+      "Agar chuqurlik titratgichlari bilan zichlashda uni pastda yotuvchi beton qorishmasi qatlamiga chuqurlashtirilmagan xolatda",
+      "Blokda beton qorishmasini zichlash uchun chuqurlik titratgichi qo‘llanilmagan xolatda",
+      "Agar chuqurlik titratgichlari bilan zichlashda betonlashtirilayotgan blokda beton qorishmasini oshishi yuz bergan xolatda",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Betonqorgichda beton qorishmasini aralashtirish davomiyligi qaysi ko‘rsatkichlarga bog‘liq?",
+    options: [
+      "Beton qorishmasi konsistensiyasi, barabanning yuklash sig‘imiga; qorishmani tarkibi va haroratiga; betonqorgich konstruksiyasi va barabanni aylanish tezligiga",
+      "Betonqorgich konstruksiyasi va barabanni aylanish tezligi, betonqorgich rusumi, beton qorishmasi tashkil etuvchilarini etkazib berish masofasi, ularni sifatiga",
+      "Jarayonni asosiy ko‘rsatkichlariga, asosiy qurilma konstruksiyasiga, beton qorishmasi to‘ldiruvchilarini sifatiga",
+      "Qadoqlagich turi, qadoqlangan material hajmiga, barabanni aylanish tezligiga, tashish vositasi tavsifnomasiga",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Gruntni qazishda bir cho‘michli ekskavator platformasini burilish burchagini o‘zgarishi uni ish unumdorligiga qanday ta’sir qiladi?",
+    options: [
+      "Ekskavator platformasini burilish burchagini kichiklashishi uni ish unumdorligini oshirish imkoniyatini beradi",
+      "Ekskavator platformasini burilish burchagini kattalashishi uni ish unumdorligini oshirish imkoniyatini beradi ",
+      "Bir cho‘michli ekskavator platformasini burilish burchagini qiymati uni ish unumdorligiga ta’sir qilmaydi",
+      "Ekskavator platformasini burilish burchagini kattalashishi uni ish unumdorligini pasaytiradi",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Agar to‘kish joyiga suriladigan bir cho‘michli ekskavatorning cho‘michini ko‘tarilishi bilan platformasini burilishini birlashtirsa, qanday natijalar olinadi?",
+    options: [
+      "Bir cho‘michli ekskavatorning ish unumdorligi oshadi",
+      "Bir cho‘michli ekskavatorning ish unumdorligi pasayadi",
+      "Bir cho‘michli ekskavator ko‘proq yonilg‘i ketkazadi",
+      "Hech qanday natijalar olinmaydi",
+    ],
+    rightAnswer: 0,
+  },
+  
+  {
+    question:
+      "Quyqaning tezligi 1.5…4,0 m/s bo‘lganda, quyqa bilan qanday hodisa yuz beradi?",
+    options: [
+      "Quyqa ko‘rsatilgan tezlik bilan tashiladi",
+      "Aralashmadan grunt cho‘kadi, suv tinadi",
+      "Quyqa o‘z harakatini davot ettiradi",
+      "Gidromexanizatsiyada quyqa bunday tezlikka  ega bo‘lmaydi",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Gidromonitorni ishlashi uchun nasosni tanlash qaysi omillarga bog‘liq?",
+    options: [
+      "Umumiy talab qilinadigan suv sarfi va talab qilinadigan bosimga",
+      "Grunt xossalari va suv sarfiga",
+      "Yuvilayotgan grunt zonasigacha bo‘lgan masofa va suv tezligiga ",
+      "Gidromonitor markasi va uning tavsifnomasiga",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Me’yoriy hujjat bo‘yicha ob’ekt qurilish davomiyligini aniqlashda xududning zilzilabardoshligi, cho‘l zonasida ishlash sharoitlari, cho‘kishga qarshi tadbirlar mavjudligi va boshqalar qanday inobatga olinadi? ",
+    options: [
+      "Maxsus koeffitsient yordamida inobatga olinadi",
+      "Bu ko‘rsatkichlar inobatga olinmaydi",
+      "Aniqlanayotgan davomiylikka foiz nisbatida qo‘shish yo‘li bilan inobatga olinadi",
+      "Qurilgan ob’ektlar bilan taqqoslash yo‘li bilan inobatga olinadi",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Grunt massalari balansini tuzishda zahira va konlarda qaysi xollarda qo‘shimcha ishlov berishni rejalashtirish mumkin?",
+    options: [
+      "Mavjud qazilmalardan grunt etmaganida, tashish masofasi uzoq bo‘lgani uchun tashishni qimmatligi, qazilmani qazish va gruntni yotqizish bo‘yicha ishlar orasida to‘g‘ri kelmaslik bo‘lganda ",
+      "Buyurtmachi bilan kelishilganda",
+      "Faqat ishlar texnologik ketma-ketligi sharoitlari bo‘yicha",
+      "Agar rejalashtirilayotgan konlar qazilayotgan qazilmalarga nisbatan yaqin joylashgan bo‘lsa",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Beton qorishmasini tashishni texnologik ruxsat etilgan davomiyligi nimaga bog‘liq?",
+    options: [
+      "Beton qorishmasini boshlang‘ich harorati, havo harorati, sement va tashish vositasi turiga",
+      "Tashish vositasi va tashish masofasiga",
+      "Beton qorishmasini tayyorlash, etkazib berish va yotqizish usuliga",
+      "Tashish vositasining tebranish kuchi va tashish masofasiga",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Bir cho‘michli ekskavatorning sikllar soni ekskavator platformasini burilish burchagiga bog‘liqmi?",
+    options: [
+      "Bog‘liq",
+      "Bog‘liq emas",
+      "Bog‘liq, tashish vositasiga ishlaganda",
+      "Bog‘liq, tuproqtepaga ishlaganda ",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Bir cho‘michli ekskavatorning sikllar soni ekskavator platformasini burilish burchagiga bog‘liqmi?",
+    options: [
+      "Bog‘liq",
+      "Bog‘liq emas",
+      "Bog‘liq, tashish vositasiga ishlaganda",
+      "Bog‘liq, tuproqtepaga ishlaganda ",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Ishlarni bajarishda skreperlarni harakatlanishini ratsional sxemasini tanlashga qanday talablar qo‘yiladi?",
+    options: [
+      "Tashish yo‘li iloji boricha qisqa, zaboy uzunligi va yuklash fronti etarli, yo‘l nishabligi optimal  bo‘lishi kerak ",
+      "Sxema me’yorlarga muvofiq bo‘lishi kerak",
+      "Tashish yo‘li iloji boricha qisqa va to‘g‘ri chiziqli,  yo‘l nishabligi optimal  bo‘lishi kerak ",
+      "Tashish yo‘li iloji boricha qisqa, zaboy uzunligi va yuklash fronti optimal  bo‘lishi kerak ",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Buldozer bilan gruntni ag‘darishda ishlov berishni transheyali usuli uni ish unumdorligini oshiradimi yoki pasaytiradimi?   ",
+    options: [
+      "oshiradi",
+      "pasaytiradi",
+      "Murakkablashtiradi va pasaytiradi",
+      "Soddalashtiradi, lekin kamaytiradi",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Ishlarni tashkil qilishni qaysi usulini qo‘llaganda, qurilish muddatini qisqartirish, mehnat sarfini kamaytirish va qurilish tannarxini pasaytirish mumkin bo‘ladi?",
+    options: [
+      "Oqim usulini",
+      "Paralel usulni",
+      "Ketma-ket usulni",
+      "Taqqoslash usulini",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Gruntni gidravlik tashishda oqim tezligi kritikdan past bo‘lganda, nima sodir bo‘ladi?",
+    options: [
+      "Grunt zarrachalari quvuro‘tkazgich tubiga cho‘kadi, bu ko‘ndalang kesim maydoni kichiklashishiga, bosim yo‘qolishini o‘sishiga olib keladi",
+      "Grunt zarrachalari quvuro‘tkazgich tubiga cho‘kadi, bu ko‘ndalang kesim maydoni kichiklashishiga, bosim yo‘qolishini kamayishiga olib keladi ",
+      "Grunt zarrachalari quvuro‘tkazgich tubiga cho‘kadi, bu ko‘ndalang kesim maydoni oshishiga, bosim yo‘qolishini o‘sishiga olib keladi ",
+      "Oqim tezligi kritikdan past bo‘lmaydi",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Quyqaning tezligi 1.5…4,0 m/s bo‘lganda, quyqa bilan qanday hodisa yuz beradi?",
+    options: [
+      "Quyqa ko‘rsatilgan tezlik bilan tashiladi",
+      "Aralashmadan grunt cho‘kadi, suv tinadi",
+      "Quyqa o‘z harakatini davot ettiradi",
+      "Gidromexanizatsiyada quyqa bunday tezlikka  ega bo‘lmaydi",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Quyqaning tezligi 0…0,5 m/s bo‘lganda, quyqa bilan qanday hodisa yuz beradi?",
+    options: [
+      "Aralashmadan grunt cho‘kadi, suv tinadi",
+      "Quyqa o‘z harakatini davot ettiradi",
+      "Gidromexanizatsiyada quyqa bunday tezlikka  ega bo‘lmaydi",
+      "Quyqa harakatlanish yo‘nalishini o‘zgartiradi",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Ma’lum xo‘jalik vazifasini (boshqarish echimini) amalga oshirishga boshqarish ob’ektini yo‘naltirish maqsadida unga to‘g‘ridan-to‘g‘ri ta’sir qilish qaysi usullarda ifodalanadi?",
+    options: [
+      "ma’muriy",
+      "iqtisodiy  ",
+      "ijtimoiy-psixologik ",
+      "ma’xmuriy-ijtimoiy",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Ushbu ibora “... – bu qurilishda butun majmuadagi ishlarni bir butun yaxlit  bog‘lash, ishlarni bajaruvchi hamkorlarni, materiallar va jihozlarni etkazib beruvchilarni barchasini harakatlarini muvofiqlashtirish, shuningdek, o‘rnatilgan muddatlarda ob’ektni foydalanishga topshirish uchun barcha ularni zarur bo‘lgani bilan qurilishni to‘liq ta’minlashdan iborat bo‘lgan yo‘nalishdir” tashkil qilishni uchta turidan qaysi biriga to‘g‘ri keladi?",
+    options: [
+      "Qurilishni tashkil qilish",
+      "Mehnatni tashkil qilish",
+      "Ishni tashkil qilish",
+      "Tashkil qilishni hech qaysi biriga to‘g‘ri kelmaydi ",
+    ],
+    rightAnswer: 0,
+  },
 ];
 
 numberOfAllQuestion.innerHTML = questions.length;
