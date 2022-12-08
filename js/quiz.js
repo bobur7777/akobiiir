@@ -23,15 +23,167 @@ const correctAnswer = document.getElementById("correct__answer"),
 
 const questions = [
   {
-    question: "Axborot bu - …",
-    options: [" Butun borliq, undagi roʼy beradigan hodisalar va jarayonlar xaqidagi xabar va maʼlumotlardir", 
-              " Ma’lumotlar bazasi", 
-              " Ro’y beradigan hodisalar", 
-              " Jarayonlar haqidagi habar"],
+    question: "Energiya ta'rifi",
+    options: [
+      "energiya manbalarini baholash, olish va ulardan amaliy foydalanish usullarini o'rganadigan sanoat va texnik (amaliy) fan sohasi",
+      "gidravlik energiya manbalarini baholash, olish va ulardan amaliy foydalanish usullarini o'rganadigan sanoat va texnik (amaliy) fan sohasi.",
+      "qayta tiklanuvchi energiya manbalarini baholash, olish va ulardan amaliy foydalanish usullarini o’rganuvchi sanoat va texnik (amaliy) fan sohasi",
+      "elektr stansiyalaridan amaliy foydalanish usullarini o’rganuvchi sanoat va texnika (amaliy) fan sohasi",
+    ],
     rightAnswer: 0,
   },
-
-
+  {
+    question: "Energiya tashuvchining ta'rifi",
+    options: [
+      "qattiq, suyuq yoki gazsimon holatdagi, energiyaning foydali shakliga aylantirilishi mumkin bo'lgan energiyaga ega bo'lgan modda",
+      "qattiq holatdan suyuq yoki gazsimon holatga o'tganda energiya chiqaradigan modda",
+      "energiya manbasidan saqlangan yoki olinadigan energiya miqdori (yil davomida)",
+      "qattiq, suyuq yoki gazsimon holatdagi maxsus ishlovdan o‘tgan modda",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question: "Energiya manbasining resursini (potensialini) aniqlash",
+    options: [
+      "energiya manbasidan saqlangan yoki olinadigan energiya miqdori (yil davomida)",
+      "foydali energiyaga aylantirilishi mumkin bo'lgan modda.",
+      "texnik jihatdan qayta ishlangan energiya manbalari",
+      "maxsus qayta ishlangan modda",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question: "Quyidagi energiya turlaridan qaysi biri an'anaviy hisoblanadi?",
+    options: [
+      "yirik gidroenergetika",
+      "quyosh energiyasi",
+      "shamol energiyasi",
+      "geotermal energiya",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Qaysi qayta tiklanadigan energiya manbalari dunyodagi eng katta yalpi potensialga ega?",
+    options: [
+      "geotermal energiya",
+      "gidroenergetika",
+      "biomassa energiyasi",
+      "atom energiyasi",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "Qaysi qayta tiklanadigan energiya manbalari dunyodagi eng kichik yalpi potensialga ega?",
+    options: [
+      "gidroenergetika",
+      "geotermal energiya",
+      "biomassa energiyasi",
+      "atom energiyasi",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question: "",
+    options: ["", "", "", ""],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "O‘zbekiston Respublikasining texnik gidrotexnik potensiali qanchaga baholangan?",
+    options: [
+      "27 mlrd kVt*soat",
+      "88 mlrd kVt*soat",
+      "1 mlrd kVt*soat",
+      "11 mlrd. Kvt*soat",
+    ],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "O‘zbekiston Respublikasining yalpi gidroenergetik potensiali qancha?",
+    options: [
+      "620 mlrd kVt*soat",
+      "1 mlrd kVt*soat",
+      "88 mlrd kVt*soat",
+      "27 mlrd. kVt*soat",
+    ],
+    rightAnswer: 2,
+  },
+  {
+    question:
+      "O‘zbekiston Respublikasida texnik gidroenergetika potensiali yalpi hajmining necha foizini tashkil qiladi?",
+    options: ["30 %", "10 %", "1	%", "50%"],
+    rightAnswer: 0,
+  },
+  {
+    question:
+      "O‘zbekistonning sanab o‘tilgan daryolaridan qaysi biri eng katta energiya potensialiga ega?",
+    options: [
+      "Tupolang daryosi",
+      "Pskem daryosi",
+      "Chotqol daryosi",
+      "Ugam daryosi",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: "Gidroresurslarning yalpi potensialini aniqlash nima?",
+    options: [
+      "Texnologik rivojlanishning ma'lum darajasida foydali energiyaga aylantirish mumkin bo'lgan o'rtacha yillik energiya hajmining bir qismi",
+      "potensial o'zgarishlarning bir qismi ma'lum bir narx darajasida iqtisodiy jihatdan maqsadga muvofiqdir",
+      "potensial va kinetik energiya yig'indisi",
+      "ma'lum turdagi energiya manbalarida mavjud bo'lgan o'rtacha yillik energiya hajmi",
+    ],
+    rightAnswer: 3,
+  },
+  {
+    question: "Gidroelektr resurslarining texnik potensialini aniqlash nima?",
+    options: [
+      "ushbu turdagi energiya manbasining o'rtacha yillik energiya hajmi",
+      "ushbu narx darajasida konvertatsiya qilish iqtisodiy jihatdan maqsadga muvofiq bo'lgan potensialning bir qismi",
+      "o'rtacha yillik energiya hajmining bir qismi, uni foydalanishga yaroqli energiyaga aylantirish texnologiyaning ma'lum bir rivojlanish darajasi bilan mumkin",
+      "potensial va kinetik energiyaning yig'indisi",
+    ],
+    rightAnswer: 2,
+  },
+  {
+    question:
+      "Gidroelektr resurslarining iqtisodiy potensialini aniqlash nima?",
+    options: [
+      "o'rtacha yillik energiya hajmining bir qismi, uni foydalanishga yaroqli energiyaga aylantirish texnologiyaning ma'lum bir rivojlanish darajasi bilan mumkin",
+      "ushbu turdagi energiya manbasining o'rtacha yillik energiya hajmi",
+      "potensial va kinetik energiyaning yig'indisi",
+      "texnik potensialning bir qismi, uning o'zgarishi ma'lum narx darajasida iqtisodiy jihatdan maqsadga muvofiqdir",
+    ],
+    rightAnswer: 3,
+  },
+  {
+    question: "Elektr stansiyalarining ta'rifini ko’rsating",
+    options: [
+      "Elektr energiyasini gidravlik energiyaga aylantirish uchun ishlatiladigan qurilmalar, uskunalar va uskunalar majmuasi, shuningdek, ma'lum bir hududda joylashgan buning uchun zarur bo'lgan inshootlar va binolar",
+      "Elektr energiyasini mexanik energiyaga aylantirish uchun ishlatiladigan qurilmalar, uskunalar va uskunalar majmuasi, shuningdek ma'lum bir hududda joylashgan buning uchun zarur bo'lgan inshootlar va binolar",
+      "Elektr energiyasini ishlab chiqarish uchun ishlatiladigan qurilmalar, uskunalar va uskunalar majmuasi, shuningdek buning uchun zarur bo'lgan inshootlar va binolar",
+      "Mexanik energiya ishlab chiqarish uchun ishlatiladigan qurilmalar, uskunalar va uskunalar majmuasi, shuningdek buning uchun zarur bo'lgan inshootlar va binolar",
+    ],
+    rightAnswer: 2,
+  },
+  {
+    question: "Gidroelektrostantsiya qaysi jixozlardan iborat topgan? ",
+    options: [
+      "Dvigatel va turbin",
+      "Turbinalar va generatorlar",
+      "Nasos va turbin",
+      "Generator va elektr motor",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: "Gidroenergetika potensialining qaysi turi eng katta",
+    options: ["texnik", "nazariy (yalpi)", "iqtisodiy", "kinetik"],
+    rightAnswer: 1,
+  },
 ];
 
 numberOfAllQuestion.innerHTML = questions.length;
@@ -69,87 +221,89 @@ const randomQuestion = () => {
         indexOfQuestion = randomNumber;
         load();
       }
-    };
+    }
     if (complatedAnswer == 0) {
       indexOfQuestion = randomNumber;
       load();
     }
-  };
+  }
   complatedAnswer.push(indexOfQuestion);
 };
 
-const checkAnswer = el => {
-  if(el.target.dataset.id == questions[indexOfQuestion].rightAnswer) {
-    el.target.classList.add('correct');
-    updateAnswerTracker('correct');
+const checkAnswer = (el) => {
+  if (el.target.dataset.id == questions[indexOfQuestion].rightAnswer) {
+    el.target.classList.add("correct");
+    updateAnswerTracker("correct");
     score++;
   } else {
-    el.target.classList.add('wrong');
-    updateAnswerTracker('wrong');
+    el.target.classList.add("wrong");
+    updateAnswerTracker("wrong");
   }
   disabledOptions();
-}
+};
 
 const disabledOptions = () => {
-  optionElements.forEach(item => {
-    item.classList.add('disabled');
-    if(item.dataset.id == questions[indexOfQuestion].rightAnswer) {
-      item.classList.add('correct');
+  optionElements.forEach((item) => {
+    item.classList.add("disabled");
+    if (item.dataset.id == questions[indexOfQuestion].rightAnswer) {
+      item.classList.add("correct");
     }
-  })
-}
+  });
+};
 
 const enableOptions = () => {
-  optionElements.forEach(item => {
-    item.classList.remove('disabled', 'correct', 'wrong');
-  })
+  optionElements.forEach((item) => {
+    item.classList.remove("disabled", "correct", "wrong");
+  });
 };
 
 const answerTracker = () => {
   questions.forEach(() => {
-    const div = document.createElement('div');
+    const div = document.createElement("div");
     answersTracker.appendChild(div);
-  })
+  });
 };
 
-const updateAnswerTracker = status => {
+const updateAnswerTracker = (status) => {
   console.log(answersTracker.children);
   answersTracker.children[indexOfPage - 1].classList.add(`${status}`);
-}
+};
 
-for(option of optionElements) {
-  option.addEventListener('click', e => checkAnswer(e));
+for (option of optionElements) {
+  option.addEventListener("click", (e) => checkAnswer(e));
 }
 
 const validate = () => {
-  if(!optionElements[0].classList.contains('disabled')) {
-    alert('Siz savolga javob bermadinggiz keyingi savolni ko`rish uchun javoblardan birini belgilang');
+  if (!optionElements[0].classList.contains("disabled")) {
+    alert(
+      "Siz savolga javob bermadinggiz keyingi savolni ko`rish uchun javoblardan birini belgilang"
+    );
   } else {
     randomQuestion();
     enableOptions();
   }
 };
 
-btnNext.addEventListener('click', validate);
+btnNext.addEventListener("click", validate);
 
 for (option of optionElements) {
-  option.addEventListener('click', e => checkAnswer(e));
+  option.addEventListener("click", (e) => checkAnswer(e));
 }
 
-
-
 const quizOver = () => {
-  if(numberOfQuestion = numberOfAllQuestion) () =>{
-  document.querySelector('.quiz__over__modle').classList.add('active');
-  correctAnswer.innerHTML = score;
-  numberOfAllQuestion2.innerHTML = questions.length;
-}};
+  if ((numberOfQuestion = numberOfAllQuestion))
+    () => {
+      document.querySelector(".quiz__over__modle").classList.add("active");
+      correctAnswer.innerHTML = score;
+      numberOfAllQuestion2.innerHTML = questions.length;
+    };
+};
 
 const tryAgain = () => {
   window.location.reload();
-}
+};
 
-btnTryAgain.addEventListener('click', tryAgain);
+btnTryAgain.addEventListener("click", tryAgain);
 
 window.addEventListener("load", () => {
   randomQuestion();
