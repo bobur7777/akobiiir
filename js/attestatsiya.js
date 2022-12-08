@@ -1633,12 +1633,12 @@ const questions = [
     question:
       "Qurilish bosh planini baholashda qo‘llaniladigan texnik-iqtisodiy ko‘rsatkichlar ... ",
     options: [
-      "ko‘rsatilganlarning barchasi ",
       "1 ga qurilishga vaqtinchalik yo‘llar, muhandislik kommunikatsiyalari, elektr tarmoqlarini uzunligi va o‘rnatishning narxi",
+      "ko‘rsatilganlarning barchasi ",
       "vaqtinchalik bino va inshootlarni qurilishi va 1 ga qurilish maydonini jihozlash bilan bog‘liq bo‘lgan er, tosh, yo‘l va boshqa ishlarning hajmi ",
       "foizda qurilish xo‘jaligini narxining ob’ekt qurilishini umumiy narxiga nisbatan ",
     ],
-    rightAnswer: 0,
+    rightAnswer: 1,
   },
   {
     question:
@@ -1655,23 +1655,23 @@ const questions = [
     question:
       "Boshqarish tizimini tuzilishi va uni alohida elementlarining o‘zaro bog‘liqligi boshqarishni tashkiliy tuzilmasi bilan belgilanadi. Boshqarishni tashkiliy tuzilmasi aytib bering.",
     options: [
-      "chiziqli, funksional, chiziqli-funksional",
       "tarmoqli, chiziqli, tarmoqli-chiziqli",
       "boshqaruvchi va boshqariladigan",
+      "chiziqli, funksional, chiziqli-funksional",
       "bosh va otalikka olingan",
     ],
-    rightAnswer: 0,
+    rightAnswer: 2,
   },
   {
     question:
       "Boshqarishni qaysi ma’muriy usullari mavjud?",
     options: [
-      "tashkiliy va boshqara oladigan",
       "bevosita va qo‘shimcha ",
       "bir yo‘la va uzoq muddatli",
+      "tashkiliy va boshqara oladigan",
       "bunday usullar mavjud emas",
     ],
-    rightAnswer: 0,
+    rightAnswer: 2,
   },
   {
     question:
@@ -1688,258 +1688,258 @@ const questions = [
     question:
       "Betonqorish qurilmasida beton qorishmasini tashkil etuvchilardan qaysi biri pnevmoquvurtashgichlar bo‘yicha tashiladi?",
     options: [
-      "Sement",
       "Suv",
       "Qum",
+      "Sement",
       "Shag‘al",
     ],
-    rightAnswer: 0,
+    rightAnswer: 2,
   },
   {
     question:
       "Quyqaning tezligi 1.5…4,0 m/s bo‘lganda, quyqa bilan qanday hodisa yuz beradi?",
     options: [
-      "Quyqa ko‘rsatilgan tezlik bilan tashiladi",
       "Aralashmadan grunt cho‘kadi, suv tinadi",
       "Quyqa o‘z harakatini davot ettiradi",
+      "Quyqa ko‘rsatilgan tezlik bilan tashiladi",
       "Gidromexanizatsiyada quyqa bunday tezlikka  ega bo‘lmaydi",
     ],
-    rightAnswer: 0,
+    rightAnswer: 2,
   },
   {
     question:
       "Betonqorish qurilmasida qaysi to‘ldiruvchilarni tashish uchun tasmali tranportyorlar qo‘llaniladi?",
     options: [
-      "Qum va yirik to‘ldiruvchilar uchun",
       "Sement uchun",
       "Qum va suv aralashmasi uchun",
+      "Qum va yirik to‘ldiruvchilar uchun",
       "Tasmali tranportyorlar qo‘llanilmaydi",
     ],
-    rightAnswer: 0,
+    rightAnswer: 2,
   },
   {
     question:
       "Nima uchun qurilish choklarida shtrablar – beton blokida o‘yiqlar yoki turtib chiqqan joylar o‘rnatiladi?",
     options: [
+      "Bloklarda betonning mustahkamlik xarakteristikalarini oshirish uchun",
+      "Ishlarni mehnat sarfini kamaytirish uchun",
       "Ikki qo‘shni blok betonini yaxshiroq birikishi uchun",
+      "Ishlarni narxini pasaytirish uchun",
+    ],
+    rightAnswer: 2,
+  },
+  
+  {
+    question:
+      "Me’yoriy hujjatF bo‘yicha ob’ekt qurilish davomiyligini aniqlashda xududning zilzilabardoshligi, cho‘l zonasida ishlash sharoitlari, cho‘kishga qarshi tadbirlar mavjudligi va boshqalar qanday inobatga olinadi? ",
+    options: [
+      "Bu ko‘rsatkichlar inobatga olinmaydi",
+      "Aniqlanayotgan davomiylikka foiz nisbatida qo‘shish yo‘li bilan inobatga olinadi",
+      "Maxsus koeffitsient yordamida inobatga olinadi",
+      "Qurilgan ob’ektlar bilan taqqoslash yo‘li bilan inobatga olinadi",
+    ],
+    rightAnswer: 2,
+  },
+  {
+    question:
+      "Qalinligi 15 sm armaturalangan plita bilan (μ= 0,3 % armaturalanish koeffitsienti bilan) konus cho‘kishi 6...8 sm mu’tadil plastik beton qorishmasini zichlash uchun qaysi turdagi titratgich to‘g‘ri keladi?",
+    options: [
+      "Chuqurlik titratgichi",
+      "Tashqi titratgich",
+      "Oddiy titratgich",
+      "Yuzaki titratgich",
+    ],
+    rightAnswer: 3,
+  },
+  {
+    question:
+      "Quyqaning tezligi 1.5…4,0 m/s bo‘lganda, quyqa bilan qanday hodisa yuz beradi?",
+    options: [
+      "Aralashmadan grunt cho‘kadi, suv tinadi",
+      "Quyqa o‘z harakatini davot ettiradi",
+      "Quyqa ko‘rsatilgan tezlik bilan tashiladi",
+      "Gidromexanizatsiyada quyqa bunday tezlikka  ega bo‘lmaydi",
+    ],
+    rightAnswer: 2,
+  },
+  {
+    question:
+      "Betonqorish qurilmasida qaysi to‘ldiruvchilarni tashish uchun tasmali tranportyorlar qo‘llaniladi?",
+    options: [
+      "Sement uchun",
+      "Qum va suv aralashmasi uchun",
+      "Qum va yirik to‘ldiruvchilar uchun",
+      "Tasmali tranportyorlar qo‘llanilmaydi",
+    ],
+    rightAnswer: 2,
+  },
+  {
+    question:
+      "Nima uchun qurilish choklarida shtrablar – beton blokida o‘yiqlar yoki turtib chiqqan joylar o‘rnatiladi?",
+    options: [
       "Bloklarda betonning mustahkamlik xarakteristikalarini oshirish uchun",
       "Ishlarni mehnat sarfini kamaytirish uchun",
       "Ishlarni narxini pasaytirish uchun",
+      "Ikki qo‘shni blok betonini yaxshiroq birikishi uchun",
     ],
-    rightAnswer: 0,
+    rightAnswer: 3,
+  },
+  {
+    question:
+      "Qalinligi 15 sm armaturalangan plita bilan (μ= 0,3 % armaturalanish koeffitsienti bilan) konus cho‘kishi 6...8 sm mu’tadil plastik beton qorishmasini zichlash uchun qaysi turdagi titratgich to‘g‘ri keladi?",
+    options: [
+      "Chuqurlik titratgichi",
+      "Tashqi titratgich",
+      "Oddiy titratgich",
+      "Yuzaki titratgich",
+    ],
+    rightAnswer: 3,
   },
   
   {
     question:
       "Me’yoriy hujjat bo‘yicha ob’ekt qurilish davomiyligini aniqlashda xududning zilzilabardoshligi, cho‘l zonasida ishlash sharoitlari, cho‘kishga qarshi tadbirlar mavjudligi va boshqalar qanday inobatga olinadi? ",
     options: [
-      "Maxsus koeffitsient yordamida inobatga olinadi",
       "Bu ko‘rsatkichlar inobatga olinmaydi",
       "Aniqlanayotgan davomiylikka foiz nisbatida qo‘shish yo‘li bilan inobatga olinadi",
       "Qurilgan ob’ektlar bilan taqqoslash yo‘li bilan inobatga olinadi",
+      "Maxsus koeffitsient yordamida inobatga olinadi",
     ],
-    rightAnswer: 0,
-  },
-  {
-    question:
-      "Qalinligi 15 sm armaturalangan plita bilan (μ= 0,3 % armaturalanish koeffitsienti bilan) konus cho‘kishi 6...8 sm mu’tadil plastik beton qorishmasini zichlash uchun qaysi turdagi titratgich to‘g‘ri keladi?",
-    options: [
-      "Yuzaki titratgich",
-      "Chuqurlik titratgichi",
-      "Tashqi titratgich",
-      "Oddiy titratgich",
-    ],
-    rightAnswer: 0,
+    rightAnswer: 3,
   },
   {
     question:
       "Quyqaning tezligi 1.5…4,0 m/s bo‘lganda, quyqa bilan qanday hodisa yuz beradi?",
     options: [
-      "Quyqa ko‘rsatilgan tezlik bilan tashiladi",
       "Aralashmadan grunt cho‘kadi, suv tinadi",
       "Quyqa o‘z harakatini davot ettiradi",
       "Gidromexanizatsiyada quyqa bunday tezlikka  ega bo‘lmaydi",
+      "Quyqa ko‘rsatilgan tezlik bilan tashiladi",
     ],
-    rightAnswer: 0,
+    rightAnswer: 3,
   },
   {
     question:
       "Betonqorish qurilmasida qaysi to‘ldiruvchilarni tashish uchun tasmali tranportyorlar qo‘llaniladi?",
     options: [
-      "Qum va yirik to‘ldiruvchilar uchun",
       "Sement uchun",
+      "Qum va yirik to‘ldiruvchilar uchun",
       "Qum va suv aralashmasi uchun",
       "Tasmali tranportyorlar qo‘llanilmaydi",
     ],
-    rightAnswer: 0,
+    rightAnswer: 1,
   },
   {
     question:
       "Nima uchun qurilish choklarida shtrablar – beton blokida o‘yiqlar yoki turtib chiqqan joylar o‘rnatiladi?",
     options: [
-      "Ikki qo‘shni blok betonini yaxshiroq birikishi uchun",
       "Bloklarda betonning mustahkamlik xarakteristikalarini oshirish uchun",
+      "Ikki qo‘shni blok betonini yaxshiroq birikishi uchun",
       "Ishlarni mehnat sarfini kamaytirish uchun",
       "Ishlarni narxini pasaytirish uchun",
     ],
-    rightAnswer: 0,
+    rightAnswer: 1,
   },
   {
     question:
       "Qalinligi 15 sm armaturalangan plita bilan (μ= 0,3 % armaturalanish koeffitsienti bilan) konus cho‘kishi 6...8 sm mu’tadil plastik beton qorishmasini zichlash uchun qaysi turdagi titratgich to‘g‘ri keladi?",
     options: [
+      "Chuqurlik titratgichi",
+      "Tashqi titratgich",
       "Yuzaki titratgich",
+      "Oddiy titratgich",
+    ],
+    rightAnswer: 2,
+  },
+  {
+    question:
+      "Quyqaning tezligi 1.5…4,0 m/s bo‘lganda, quyqa bilan qanday hodisa yuz beradi?",
+    options: [
+      "Aralashmadan grunt cho‘kadi, suv tinadi",
+      "Quyqa o‘z harakatini davot ettiradi",
+      "Quyqa ko‘rsatilgan tezlik bilan tashiladi",
+      "Gidromexanizatsiyada quyqa bunday tezlikka  ega bo‘lmaydi",
+    ],
+    rightAnswer: 2,
+  },
+  {
+    question:
+      "Betonqorish qurilmasida qaysi to‘ldiruvchilarni tashish uchun tasmali tranportyorlar qo‘llaniladi?",
+    options: [
+      "Sement uchun",
+      "Qum va yirik to‘ldiruvchilar uchun",
+      "Qum va suv aralashmasi uchun",
+      "Tasmali tranportyorlar qo‘llanilmaydi",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question:
+      "Nima uchun qurilish choklarida shtrablar – beton blokida o‘yiqlar yoki turtib chiqqan joylar o‘rnatiladi?",
+    options: [
+      "Bloklarda betonning mustahkamlik xarakteristikalarini oshirish uchun",
+      "Ishlarni mehnat sarfini kamaytirish uchun",
+      "Ishlarni narxini pasaytirish uchun",
+      "Ikki qo‘shni blok betonini yaxshiroq birikishi uchun",
+    ],
+    rightAnswer: 3,
+  },
+  {
+    question:
+      "Qalinligi 15 sm armaturalangan plita bilan (μ= 0,3 % armaturalanish koeffitsienti bilan) konus cho‘kishi 6...8 sm mu’tadil plastik beton qorishmasini zichlash uchun qaysi turdagi titratgich to‘g‘ri keladi?",
+    options: [
       "Chuqurlik titratgichi",
       "Tashqi titratgich",
       "Oddiy titratgich",
+      "Yuzaki titratgich",
     ],
-    rightAnswer: 0,
+    rightAnswer: 3,
   },
   
   {
     question:
       "Me’yoriy hujjat bo‘yicha ob’ekt qurilish davomiyligini aniqlashda xududning zilzilabardoshligi, cho‘l zonasida ishlash sharoitlari, cho‘kishga qarshi tadbirlar mavjudligi va boshqalar qanday inobatga olinadi? ",
     options: [
-      "Maxsus koeffitsient yordamida inobatga olinadi",
       "Bu ko‘rsatkichlar inobatga olinmaydi",
+      "Maxsus koeffitsient yordamida inobatga olinadi",
       "Aniqlanayotgan davomiylikka foiz nisbatida qo‘shish yo‘li bilan inobatga olinadi",
       "Qurilgan ob’ektlar bilan taqqoslash yo‘li bilan inobatga olinadi",
     ],
-    rightAnswer: 0,
-  },
-  {
-    question:
-      "Quyqaning tezligi 1.5…4,0 m/s bo‘lganda, quyqa bilan qanday hodisa yuz beradi?",
-    options: [
-      "Quyqa ko‘rsatilgan tezlik bilan tashiladi",
-      "Aralashmadan grunt cho‘kadi, suv tinadi",
-      "Quyqa o‘z harakatini davot ettiradi",
-      "Gidromexanizatsiyada quyqa bunday tezlikka  ega bo‘lmaydi",
-    ],
-    rightAnswer: 0,
-  },
-  {
-    question:
-      "Betonqorish qurilmasida qaysi to‘ldiruvchilarni tashish uchun tasmali tranportyorlar qo‘llaniladi?",
-    options: [
-      "Qum va yirik to‘ldiruvchilar uchun",
-      "Sement uchun",
-      "Qum va suv aralashmasi uchun",
-      "Tasmali tranportyorlar qo‘llanilmaydi",
-    ],
-    rightAnswer: 0,
-  },
-  {
-    question:
-      "Nima uchun qurilish choklarida shtrablar – beton blokida o‘yiqlar yoki turtib chiqqan joylar o‘rnatiladi?",
-    options: [
-      "Ikki qo‘shni blok betonini yaxshiroq birikishi uchun",
-      "Bloklarda betonning mustahkamlik xarakteristikalarini oshirish uchun",
-      "Ishlarni mehnat sarfini kamaytirish uchun",
-      "Ishlarni narxini pasaytirish uchun",
-    ],
-    rightAnswer: 0,
-  },
-  {
-    question:
-      "Qalinligi 15 sm armaturalangan plita bilan (μ= 0,3 % armaturalanish koeffitsienti bilan) konus cho‘kishi 6...8 sm mu’tadil plastik beton qorishmasini zichlash uchun qaysi turdagi titratgich to‘g‘ri keladi?",
-    options: [
-      "Yuzaki titratgich",
-      "Chuqurlik titratgichi",
-      "Tashqi titratgich",
-      "Oddiy titratgich",
-    ],
-    rightAnswer: 0,
-  },
-  {
-    question:
-      "Quyqaning tezligi 1.5…4,0 m/s bo‘lganda, quyqa bilan qanday hodisa yuz beradi?",
-    options: [
-      "Quyqa ko‘rsatilgan tezlik bilan tashiladi",
-      "Aralashmadan grunt cho‘kadi, suv tinadi",
-      "Quyqa o‘z harakatini davot ettiradi",
-      "Gidromexanizatsiyada quyqa bunday tezlikka  ega bo‘lmaydi",
-    ],
-    rightAnswer: 0,
-  },
-  {
-    question:
-      "Betonqorish qurilmasida qaysi to‘ldiruvchilarni tashish uchun tasmali tranportyorlar qo‘llaniladi?",
-    options: [
-      "Qum va yirik to‘ldiruvchilar uchun",
-      "Sement uchun",
-      "Qum va suv aralashmasi uchun",
-      "Tasmali tranportyorlar qo‘llanilmaydi",
-    ],
-    rightAnswer: 0,
-  },
-  {
-    question:
-      "Nima uchun qurilish choklarida shtrablar – beton blokida o‘yiqlar yoki turtib chiqqan joylar o‘rnatiladi?",
-    options: [
-      "Ikki qo‘shni blok betonini yaxshiroq birikishi uchun",
-      "Bloklarda betonning mustahkamlik xarakteristikalarini oshirish uchun",
-      "Ishlarni mehnat sarfini kamaytirish uchun",
-      "Ishlarni narxini pasaytirish uchun",
-    ],
-    rightAnswer: 0,
-  },
-  {
-    question:
-      "Qalinligi 15 sm armaturalangan plita bilan (μ= 0,3 % armaturalanish koeffitsienti bilan) konus cho‘kishi 6...8 sm mu’tadil plastik beton qorishmasini zichlash uchun qaysi turdagi titratgich to‘g‘ri keladi?",
-    options: [
-      "Yuzaki titratgich",
-      "Chuqurlik titratgichi",
-      "Tashqi titratgich",
-      "Oddiy titratgich",
-    ],
-    rightAnswer: 0,
-  },
-  
-  {
-    question:
-      "Me’yoriy hujjat bo‘yicha ob’ekt qurilish davomiyligini aniqlashda xududning zilzilabardoshligi, cho‘l zonasida ishlash sharoitlari, cho‘kishga qarshi tadbirlar mavjudligi va boshqalar qanday inobatga olinadi? ",
-    options: [
-      "Maxsus koeffitsient yordamida inobatga olinadi",
-      "Bu ko‘rsatkichlar inobatga olinmaydi",
-      "Aniqlanayotgan davomiylikka foiz nisbatida qo‘shish yo‘li bilan inobatga olinadi",
-      "Qurilgan ob’ektlar bilan taqqoslash yo‘li bilan inobatga olinadi",
-    ],
-    rightAnswer: 0,
+    rightAnswer: 1,
   },
   {
     question:
       "Qolip ishlari mehnat sarfi va narxiga qolipni aylanish ko‘rsatkichini o‘zgarishi qanday ta’sir ko‘rsatadi?",
     options: [
-      "Agar qoliplarni aylanishini oshirsa, qolip ishlari mehnat sarfi va narxini kamaytirish mumkin",
       "Agar qoliplarni aylanishini kamaytirsa, qolip ishlari mehnat sarfi va narxini kamaytirish mumkin ",
+      "Agar qoliplarni aylanishini oshirsa, qolip ishlari mehnat sarfi va narxini kamaytirish mumkin",
       "Qoliplarni aylanishi ko‘rsatkichini o‘zgarishi qolip ishlari mehnat sarfi va narxiga ta’sir ko‘rsatmaydi",
       "Agar qoliplarni aylanishini oshirsa, qolip ishlari mehnat sarfi va narxini oshirish mumkin ",
     ],
-    rightAnswer: 0,
+    rightAnswer: 1,
   },
   
   {
     question:
       "Quyqaning tezligi 1.5…4,0 m/s bo‘lganda, quyqa bilan qanday hodisa yuz beradi?",
     options: [
-      "Quyqa ko‘rsatilgan tezlik bilan tashiladi",
       "Aralashmadan grunt cho‘kadi, suv tinadi",
+      "Quyqa ko‘rsatilgan tezlik bilan tashiladi",
       "Quyqa o‘z harakatini davot ettiradi",
       "Gidromexanizatsiyada quyqa bunday tezlikka  ega bo‘lmaydi",
     ],
-    rightAnswer: 0,
+    rightAnswer: 1,
   },
   {
     question:
       "Qanday xolatda beton qorishmasini qoidalarga rioya qilgan xolda zichlanayapti deb ta’kidlash mumkin?",
     options: [
-      "Agar chuqurlik titratgichlari bilan zichlashda uni pastda yotuvchi beton qorishmasi qatlamiga 5...15 sm ga chuqurlashishi ta’minlangan xolatda",
       "Agar chuqurlik titratgichlari bilan zichlashda uni pastda yotuvchi beton qorishmasi qatlamiga chuqurlashtirilmagan xolatda",
       "Blokda beton qorishmasini zichlash uchun chuqurlik titratgichi qo‘llanilmagan xolatda",
+      "Agar chuqurlik titratgichlari bilan zichlashda uni pastda yotuvchi beton qorishmasi qatlamiga 5...15 sm ga chuqurlashishi ta’minlangan xolatda",
       "Agar chuqurlik titratgichlari bilan zichlashda betonlashtirilayotgan blokda beton qorishmasini oshishi yuz bergan xolatda",
     ],
-    rightAnswer: 0,
+    rightAnswer: 2,
   },
   {
     question:
@@ -1979,89 +1979,89 @@ const questions = [
     question:
       "Quyqaning tezligi 1.5…4,0 m/s bo‘lganda, quyqa bilan qanday hodisa yuz beradi?",
     options: [
-      "Quyqa ko‘rsatilgan tezlik bilan tashiladi",
       "Aralashmadan grunt cho‘kadi, suv tinadi",
       "Quyqa o‘z harakatini davot ettiradi",
       "Gidromexanizatsiyada quyqa bunday tezlikka  ega bo‘lmaydi",
+      "Quyqa ko‘rsatilgan tezlik bilan tashiladi",
     ],
-    rightAnswer: 0,
+    rightAnswer: 3,
   },
   {
     question:
       "Gidromonitorni ishlashi uchun nasosni tanlash qaysi omillarga bog‘liq?",
     options: [
-      "Umumiy talab qilinadigan suv sarfi va talab qilinadigan bosimga",
       "Grunt xossalari va suv sarfiga",
       "Yuvilayotgan grunt zonasigacha bo‘lgan masofa va suv tezligiga ",
       "Gidromonitor markasi va uning tavsifnomasiga",
+      "Umumiy talab qilinadigan suv sarfi va talab qilinadigan bosimga",
     ],
-    rightAnswer: 0,
+    rightAnswer: 3,
   },
   {
     question:
       "Me’yoriy hujjat bo‘yicha ob’ekt qurilish davomiyligini aniqlashda xududning zilzilabardoshligi, cho‘l zonasida ishlash sharoitlari, cho‘kishga qarshi tadbirlar mavjudligi va boshqalar qanday inobatga olinadi? ",
     options: [
-      "Maxsus koeffitsient yordamida inobatga olinadi",
       "Bu ko‘rsatkichlar inobatga olinmaydi",
       "Aniqlanayotgan davomiylikka foiz nisbatida qo‘shish yo‘li bilan inobatga olinadi",
       "Qurilgan ob’ektlar bilan taqqoslash yo‘li bilan inobatga olinadi",
+      "Maxsus koeffitsient yordamida inobatga olinadi",
     ],
-    rightAnswer: 0,
+    rightAnswer: 3,
   },
   {
     question:
       "Grunt massalari balansini tuzishda zahira va konlarda qaysi xollarda qo‘shimcha ishlov berishni rejalashtirish mumkin?",
     options: [
-      "Mavjud qazilmalardan grunt etmaganida, tashish masofasi uzoq bo‘lgani uchun tashishni qimmatligi, qazilmani qazish va gruntni yotqizish bo‘yicha ishlar orasida to‘g‘ri kelmaslik bo‘lganda ",
       "Buyurtmachi bilan kelishilganda",
       "Faqat ishlar texnologik ketma-ketligi sharoitlari bo‘yicha",
       "Agar rejalashtirilayotgan konlar qazilayotgan qazilmalarga nisbatan yaqin joylashgan bo‘lsa",
+      "Mavjud qazilmalardan grunt etmaganida, tashish masofasi uzoq bo‘lgani uchun tashishni qimmatligi, qazilmani qazish va gruntni yotqizish bo‘yicha ishlar orasida to‘g‘ri kelmaslik bo‘lganda ",
     ],
-    rightAnswer: 0,
+    rightAnswer: 3,
   },
   {
     question:
       "Beton qorishmasini tashishni texnologik ruxsat etilgan davomiyligi nimaga bog‘liq?",
     options: [
-      "Beton qorishmasini boshlang‘ich harorati, havo harorati, sement va tashish vositasi turiga",
       "Tashish vositasi va tashish masofasiga",
+      "Beton qorishmasini boshlang‘ich harorati, havo harorati, sement va tashish vositasi turiga",
       "Beton qorishmasini tayyorlash, etkazib berish va yotqizish usuliga",
       "Tashish vositasining tebranish kuchi va tashish masofasiga",
     ],
-    rightAnswer: 0,
+    rightAnswer: 1,
   },
   {
     question:
       "Bir cho‘michli ekskavatorning sikllar soni ekskavator platformasini burilish burchagiga bog‘liqmi?",
     options: [
-      "Bog‘liq",
       "Bog‘liq emas",
       "Bog‘liq, tashish vositasiga ishlaganda",
+      "Bog‘liq",
       "Bog‘liq, tuproqtepaga ishlaganda ",
     ],
-    rightAnswer: 0,
+    rightAnswer: 2,
   },
   {
     question:
       "Bir cho‘michli ekskavatorning sikllar soni ekskavator platformasini burilish burchagiga bog‘liqmi?",
     options: [
-      "Bog‘liq",
       "Bog‘liq emas",
+      "Bog‘liq",
       "Bog‘liq, tashish vositasiga ishlaganda",
       "Bog‘liq, tuproqtepaga ishlaganda ",
     ],
-    rightAnswer: 0,
+    rightAnswer: 1,
   },
   {
     question:
       "Ishlarni bajarishda skreperlarni harakatlanishini ratsional sxemasini tanlashga qanday talablar qo‘yiladi?",
     options: [
-      "Tashish yo‘li iloji boricha qisqa, zaboy uzunligi va yuklash fronti etarli, yo‘l nishabligi optimal  bo‘lishi kerak ",
       "Sxema me’yorlarga muvofiq bo‘lishi kerak",
       "Tashish yo‘li iloji boricha qisqa va to‘g‘ri chiziqli,  yo‘l nishabligi optimal  bo‘lishi kerak ",
+      "Tashish yo‘li iloji boricha qisqa, zaboy uzunligi va yuklash fronti etarli, yo‘l nishabligi optimal  bo‘lishi kerak ",
       "Tashish yo‘li iloji boricha qisqa, zaboy uzunligi va yuklash fronti optimal  bo‘lishi kerak ",
     ],
-    rightAnswer: 0,
+    rightAnswer: 2,
   },
   {
     question:
@@ -2089,12 +2089,12 @@ const questions = [
     question:
       "Gruntni gidravlik tashishda oqim tezligi kritikdan past bo‘lganda, nima sodir bo‘ladi?",
     options: [
-      "Grunt zarrachalari quvuro‘tkazgich tubiga cho‘kadi, bu ko‘ndalang kesim maydoni kichiklashishiga, bosim yo‘qolishini o‘sishiga olib keladi",
       "Grunt zarrachalari quvuro‘tkazgich tubiga cho‘kadi, bu ko‘ndalang kesim maydoni kichiklashishiga, bosim yo‘qolishini kamayishiga olib keladi ",
       "Grunt zarrachalari quvuro‘tkazgich tubiga cho‘kadi, bu ko‘ndalang kesim maydoni oshishiga, bosim yo‘qolishini o‘sishiga olib keladi ",
       "Oqim tezligi kritikdan past bo‘lmaydi",
+      "Grunt zarrachalari quvuro‘tkazgich tubiga cho‘kadi, bu ko‘ndalang kesim maydoni kichiklashishiga, bosim yo‘qolishini o‘sishiga olib keladi",
     ],
-    rightAnswer: 0,
+    rightAnswer: 3,
   },
   {
     question:
@@ -2122,23 +2122,23 @@ const questions = [
     question:
       "Ma’lum xo‘jalik vazifasini (boshqarish echimini) amalga oshirishga boshqarish ob’ektini yo‘naltirish maqsadida unga to‘g‘ridan-to‘g‘ri ta’sir qilish qaysi usullarda ifodalanadi?",
     options: [
-      "ma’muriy",
       "iqtisodiy  ",
       "ijtimoiy-psixologik ",
+      "ma’muriy",
       "ma’xmuriy-ijtimoiy",
     ],
-    rightAnswer: 0,
+    rightAnswer: 2,
   },
   {
     question:
       "Ushbu ibora “... – bu qurilishda butun majmuadagi ishlarni bir butun yaxlit  bog‘lash, ishlarni bajaruvchi hamkorlarni, materiallar va jihozlarni etkazib beruvchilarni barchasini harakatlarini muvofiqlashtirish, shuningdek, o‘rnatilgan muddatlarda ob’ektni foydalanishga topshirish uchun barcha ularni zarur bo‘lgani bilan qurilishni to‘liq ta’minlashdan iborat bo‘lgan yo‘nalishdir” tashkil qilishni uchta turidan qaysi biriga to‘g‘ri keladi?",
     options: [
-      "Qurilishni tashkil qilish",
       "Mehnatni tashkil qilish",
+      "Qurilishni tashkil qilish",
       "Ishni tashkil qilish",
       "Tashkil qilishni hech qaysi biriga to‘g‘ri kelmaydi ",
     ],
-    rightAnswer: 0,
+    rightAnswer: 1,
   },
 ];
 
