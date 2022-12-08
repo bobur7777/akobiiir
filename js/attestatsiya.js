@@ -1358,23 +1358,23 @@ const questions = [
     question:
       "Oldindan zo‘riqtirilgan temirbeton muhim ... betonni layoqatsizligini oldini olish uchun mo‘ljallangan.",
     options: [
-      "cho‘zuvchi kuchlanishlarga ",
       "siquvchi kuchlanishlarga",
       "egiluvchan kuchlanishlarga",
       "suruvchi kuchlanishlarga",
+      "cho‘zuvchi kuchlanishlarga ",
     ],
-    rightAnswer: 0,
+    rightAnswer: 3,
   },
   {
     question:
       "Kompozit armatura qanday afzalliklarga ega?",
     options: [
-      "Korrozion turg‘unlik, past issiqlik va elektr o‘tkazuvchanlik, ekologiklik",
       "Korrozion turg‘unlikka qarshilik, past issiqlik va elektr o‘tkazuvchanlik, ekologiklik",
       "Korrozion mustahkamlik, past issiqlik va elektr o‘tkazuvchanlik, ekologiklik",
       "Korrozion turg‘unlik, baland issiqlik va elektr o‘tkazuvchanlik, ekologiklik",
+      "Korrozion turg‘unlik, past issiqlik va elektr o‘tkazuvchanlik, ekologiklik",
     ],
-    rightAnswer: 0,
+    rightAnswer: 3,
   },
   {
     question:
@@ -1391,12 +1391,12 @@ const questions = [
     question:
       "Bitumli mastikadagi rulon tom yopma va gidroizolyatsiya materiallarini ulardan foydalanishdan oldin ... saqlash kerak. ",
     options: [
-      "24 soat harorati +15°S dan past bo‘lmagan joyda ",
       "24 soat harorati +25°S dan past bo‘lmagan joyda c",
       "12 soat harorati +15°S dan past bo‘lmagan joyda ",
       "24 soat harorati +10°S dan past bo‘lmagan joyda ",
+      "24 soat harorati +15°S dan past bo‘lmagan joyda ",
     ],
-    rightAnswer: 0,
+    rightAnswer: 3,
   },
   {
     question:
@@ -1413,12 +1413,12 @@ const questions = [
     question:
       "G‘isht, penobeton yoki gazobeton bloklardan qish davrida bino devorlarini qo‘tarishda nimadan foydalaniladi? 	",
     options: [
-      "Salbiy haroratlarda ishlashga mo‘ljallangan maxsus elimlar",
       "Salbiy haroratlarda ishlashga mo‘ljallangan gidroizolyatsion materiallar ",
       "Salbiy haroratlarda ishlashga mo‘ljallangan maxsus qo‘shimchalar",
       "Salbiy haroratlarda ishlashga mo‘ljallangan sement qorishmasi",
+      "Salbiy haroratlarda ishlashga mo‘ljallangan maxsus elimlar",
     ],
-    rightAnswer: 0,
+    rightAnswer: 3,
   },
   {
     question:
@@ -1457,12 +1457,12 @@ const questions = [
     question:
       "Bitumli cherepitsa bilan tom yopmani yopish bo‘yicha ishlarni ... haroratda bajarishga ruxsat beriladi. ",
     options: [
-      "-5°S dan past bo‘lmagan",
       "+5°S dan past bo‘lmagan",
       "-10°S dan past bo‘lmagan",
       "-15°S dan past bo‘lmagan",
+      "-5°S dan past bo‘lmagan",
     ],
-    rightAnswer: 0,
+    rightAnswer: 3,
   },
   {
     question:
@@ -1490,56 +1490,56 @@ const questions = [
     question:
       "Sement grunt tarkibida og‘irligi bo‘yicha sement miqdori ... tashkil qiladi.",
     options: [
-      "8 dan 12 % gacha",
       "10 dan 12 % gacha",
       "10 dan 15 % gacha",
+      "8 dan 12 % gacha",
       "8 dan 11 % gacha",
     ],
-    rightAnswer: 0,
+    rightAnswer: 2,
   },
   {
     question:
       "Er ishlarida mashinalar samaradorligini qanday oshirish mumkin?",
     options: [
-      "Ish vaqtini yaxshilab, ish vaqtida turib qolishlarni qisqartirib",
       "Metrologik xavfsizlikni oshirib  ",
       "Texnik imkoniyatlarni kengaytirib ",
+      "Ish vaqtini yaxshilab, ish vaqtida turib qolishlarni qisqartirib",
       "Texnik imkoniyatlarni kengaytirib, ekologik xavfsizlikni kengaytirib",
     ],
-    rightAnswer: 0,
+    rightAnswer: 2,
   },
   {
     question:
       "Issiq va quruq iqlimda betonlashtirishda nima uchun namdan himoyalovchi plyonkalar qo‘llaniladi?",
     options: [
-      "namdan himoyalovchi plyonkalar suv yo‘qolishini kamaytiradi, bug‘latish kamerasida betonni qotish sharoitiga yaqin bo‘lgan, termonamlik rejimini yuzaga keltiradi ",
       "namdan himoyalovchi plyonkalar yangi yotqizilgan betonni mexanik ta’sirlardan himoya qiladi",
       "namdan himoyalovchi plyonkalar suv yo‘qolishini kamaytiradi",
+      "namdan himoyalovchi plyonkalar suv yo‘qolishini kamaytiradi, bug‘latish kamerasida betonni qotish sharoitiga yaqin bo‘lgan, termonamlik rejimini yuzaga keltiradi ",
       "issiq va quruq iqlimda betonlashtirishda namdan himoyalovchi plyonkalardan foydalanilmaydi",
     ],
-    rightAnswer: 0,
+    rightAnswer: 2,
   },
   {
     question:
       "Muzlash bo‘yicha qaysi mustahkamlikni kritik deb aytiladi?",
     options: [
-      "Sovuqdan yuzaga kelgan yoriqlar paydo bo‘lish xavfi bo‘lmagandagi mustahkamlik",
       "15 Mpa mustahkamlik",
       "20 Mpa mustahkamlik",
+      "Sovuqdan yuzaga kelgan yoriqlar paydo bo‘lish xavfi bo‘lmagandagi mustahkamlik",
       "Blok yuzasiga bosim berish imkoniyati bo‘lmagandagi mustahkamlik",
     ],
-    rightAnswer: 0,
+    rightAnswer: 2,
   },
   {
     question:
       "Temirbeton buyumlarini ishlab chiqarishni texnologik tashkil qilishni qaysi usulida bitta joyda ikkinchi joyga bir tekis tezlikda uzluksiz, shu jumladan qotishni tezlashtirish uchun operatsiyalarni bajarishda buyum suriladi?",
     options: [
-      "Konveyerli usulda",
       "Kassetali usulda",
       "Oqim-agregat usulida",
+      "Konveyerli usulda",
       "Bunday usul mavjud emas",
     ],
-    rightAnswer: 0,
+    rightAnswer: 2,
   },
   {
     question:
