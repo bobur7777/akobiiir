@@ -184,6 +184,644 @@ const questions = [
     options: ["texnik", "nazariy (yalpi)", "iqtisodiy", "kinetik"],
     rightAnswer: 1,
   },
+  {
+    question: 
+      "Quyidagi energiya turlaridan qaysi biri an'anaviy hisoblanadi?",
+    options: [
+      "yirik gidroenergetika",
+      "quyosh energiyasi",
+      "shamol energiyasi",
+      "geotermal energiya",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "Qaysi qayta tiklanadigan energiya manbalari dunyodagi eng katta yalpi potensialga ega?",
+    options: [
+      "geotermal energiya",
+      "gidroenergetika",
+      "biomassa energiyasi",
+      "atom energiyasi",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "Qaysi qayta tiklanadigan energiya manbalari dunyodagi eng kichik yalpi potensialga ega?",
+    options: [
+      "gidroenergetika",
+      "geotermal energiya",
+      "biomassa energiyasi",
+      "atom energiyasi",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "O‘zbekiston Respublikasining texnik gidrotexnik potensiali qanchaga baholangan?",
+    options: [
+      "27 mlrd kVt*soat",
+      "88 mlrd kVt*soat",
+      "1 mlrd kVt*soat",
+      "11 mlrd. Kvt*soat",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "O‘zbekiston Respublikasining yalpi gidroenergetik potensiali qancha?",
+    options: [
+      "88 mlrd kVt*soat",
+      "620 mlrd kVt*soat",
+      "1 mlrd kVt*soat",
+      "27 mlrd. kVt*soat",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "O‘zbekiston Respublikasida texnik gidroenergetika potensiali yalpi hajmining necha foizini tashkil qiladi?",
+    options: [
+      "30 %",
+      "10 %",
+      "1	%",
+      "50%",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "O‘zbekistonning sanab o‘tilgan daryolaridan qaysi biri eng katta energiya potensialiga ega?",
+    options: [
+      "Pskem daryosi",
+      "Tupolang daryosi",
+      "Chotqol daryosi",
+      "Ugam daryosi",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "Gidroresurslarning yalpi potensialini aniqlash nima?",
+    options: [
+      "ma'lum turdagi energiya manbalarida mavjud bo'lgan o'rtacha yillik energiya hajmi",
+      "Texnologik rivojlanishning ma'lum darajasida foydali energiyaga aylantirish mumkin bo'lgan o'rtacha yillik energiya hajmining bir qismi",
+      "potensial o'zgarishlarning bir qismi ma'lum bir narx darajasida iqtisodiy jihatdan maqsadga muvofiqdir",
+      "potensial va kinetik energiya yig'indisi",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "Gidroelektr resurslarining iqtisodiy potensialini aniqlash nima?",
+    options: [
+      "texnik potensialning bir qismi, uning o'zgarishi ma'lum narx darajasida iqtisodiy jihatdan maqsadga muvofiqdir",
+      "o'rtacha yillik energiya hajmining bir qismi, uni foydalanishga yaroqli energiyaga aylantirish texnologiyaning ma'lum bir rivojlanish darajasi bilan mumkin",
+      "ushbu turdagi energiya manbasining o'rtacha yillik energiya hajmi",
+      "potensial va kinetik energiyaning yig'indisi",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "Elektr stansiyalarining ta'rifini ko’rsating",
+    options: [
+      "Elektr energiyasini ishlab chiqarish uchun ishlatiladigan qurilmalar, uskunalar va uskunalar majmuasi, shuningdek buning uchun zarur bo'lgan inshootlar va binolar",
+      "Elektr energiyasini gidravlik energiyaga aylantirish uchun ishlatiladigan qurilmalar, uskunalar va uskunalar majmuasi, shuningdek, ma'lum bir hududda joylashgan buning uchun zarur bo'lgan inshootlar va binolar",
+      "Elektr energiyasini mexanik energiyaga aylantirish uchun ishlatiladigan qurilmalar, uskunalar va uskunalar majmuasi, shuningdek ma'lum bir hududda joylashgan buning uchun zarur bo'lgan inshootlar va binolar",
+      "Mexanik energiya ishlab chiqarish uchun ishlatiladigan qurilmalar, uskunalar va uskunalar majmuasi, shuningdek buning uchun zarur bo'lgan inshootlar va binolar",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "Gidroelektrostantsiya qaysi jixozlardan iborat topgan? ",
+    options: [
+      "Turbinalar va generatorlar",
+      "Dvigatel va turbin",
+      "Nasos va turbin",
+      "Generator va elektr motor",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "Gidroenergetika potensialining qaysi turi eng katta",
+    options: [
+      "nazariy (yalpi)",
+      "texnik",
+      "iqtisodiy",
+      "kinetik",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "Gidroenergetika potensialining qaysi turi eng kichik",
+    options: [
+      "iqtisodiy ",
+      "texnik",
+      "nazariy (yalpi)",
+      "kinetik",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "Ushbu turdagi energiya manbasida mavjud bo'lgan o'rtacha yillik energiya miqdori…",
+    options: [
+      "yalpi potensial",
+      "texnik potensial",
+      "iqtisodiy potensial",
+      "gidroenergetika potensiali",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "O'rtacha yillik energiya hajmining bir qismi, uni foydalanishga yaroqli energiyaga aylantirish texnologiyaning ma'lum bir rivojlanish darajasi bilan mumkin – bu .....",
+    options: [
+      "texnik potensial",
+      "yalpi potensial",
+      "iqtisodiy potensial ",
+      "gidroenergetika potensial ",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "Ma'lum bir narx darajasida o'zgarishi iqtisodiy jihatdan mumkin bo'lgan texnik potensialning bir qismi ...",
+    options: [
+      "iqtisodiy potensial ",
+      "gidroenergetika potensial ",
+      "texnik potensial ",
+      "yalpi potensial",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "Qaysi gidroelektrostantsiya O'zR gidroenergetikasining ,birinch qurilgan GESi hisoblanadi",
+    options: [
+      "Bozsuy GES",
+      "Charvak GES",
+      "Farhod GES",
+      "Burjar GES",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "Bozsuv gidroelektrstantsiyasi qaysi yildan beri ishlaydi?",
+    options: [
+      "1926",
+      "1929",
+      "1936",
+      "1906",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "Neckar (Germaniya) daryosida dunyodagi birinchi gidroelektrostantsiyalardan biri qaysi yilda qurilgan?",
+    options: [
+      "1891",
+      "1794",
+      "1908",
+      "1612",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      `Qaysi yilda "O'zR kichik gidroenergetikasini rivojlantirish dasturi"qabul qilindi`,
+    options: [
+      `1995 y`,
+      `1991 y`,
+      `1998 y`,
+      `2001y`,
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      `"Uch dara" (XXR) gidroelektrostantsiyasining kuchi qancha?`,
+    options: [
+      `22,5 GVt`,
+      `18,5 kVt`,
+      `625 MVt`,
+      `545000Vt`,
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "Charvak gidroelektr stantsiyasining quvvati qancha?",
+    options: [
+      "620 MVt",
+      "15,6 MVt",
+      "6,4 MVt",
+      "3	 3MVt",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "Hozirgi vaqtda gidroenergetikadan foydalanish bo'yicha qaysi davlat yetakchi hisoblanadi?",
+    options: [
+      "Xitoy",
+      "Braziliya",
+      "AQSh",
+      "Norvegiya",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "O'zR da qaysi gidroelektrostantsiya eng quvvatli hisoblanadi?",
+    options: [
+      "Charvaq",
+      "Bozsuv",
+      "Farhod",
+      "Oqtepa",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "Markaziy Osiyodagi eng kuchli gidroelektrostantsiya qaysi?",
+    options: [
+      "Nurek",
+      "Bozsuv",
+      "Farhod",
+      "Chorvoq",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "O'zbekiston Respublikasining sanab o'tilgan hududlaridan qaysi biri eng katta yalpi gidroenergetik potensialiga ega?",
+    options: [
+      "Toshkent",
+      "Namangan",
+      "Qashqadaryo viloyati",
+      "Farg'ona",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "O'zR mintaqalaridan qaysi biri eng kam yalpi gidroenergetik potensialiga ega?",
+    options: [
+      "Navoiy",
+      "Qashqadaryo viloyati",
+      "Toshkent",
+      "Surxondaryo",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "gidravlik energiyani ta’riflab bering ",
+    options: [
+      "suvning potensial va kinetik energiyasi",
+      "sirtga keladigan quyosh nurlanishining energiyasi",
+      "dengiz to'lqinlarining energiyasi",
+      "dengizlar, okeanlarning yuqori va chuqur qatlamlarining harorat farqi natijasida olingan energiya",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "Gidrologiyani ta’riflab bering",
+    options: [
+      "tabiiy suvlarni, ulardagi hodisalar va jarayonlarni va ushbu hodisalar va jarayonlarning rivojlanish qonuniyatlarini o'rganish bilan shug'ullanadigan fan.",
+      "geologik jarayonlar, moddiy tarkibi, er qobig'i va litosferaning tuzilishini o'rganishga asoslangan yerning tuzilishi, uning kelib chiqishi va rivojlanishi haqidagi fan ",
+      "er osti suvlarining kelib chiqishi, paydo bo'lish shartlari, tarkibi va harakatlanish qonuniyatlarini o'rganadigan fan.",
+      "okeanlar, dengizlar, qirg'oq mintaqalari, ko'llar va daryolarning fizik xususiyatlarini o'lchash va tavsiflash bilan shug'ullanadigan amaliy fan sohasi",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "Gidrogeologiyaning ta'rifi",
+    options: [
+      "er osti suvlarining kelib chiqishi, paydo bo'lish shartlari, tarkibi va harakatlanish qonuniyatlarini o'rganadigan fan.",
+      "geologik jarayonlar, moddiy tarkibi, er qobig'i va litosferaning tuzilishini o'rganishga asoslangan yerning tuzilishi, uning kelib chiqishi va rivojlanishi haqidagi fan ",
+      "tabiiy suvlarni, ulardagi hodisalar va jarayonlarni va ushbu hodisalar va jarayonlarning rivojlanish qonuniyatlarini o'rganish bilan shug'ullanadigan fan.",
+      "okeanlar, dengizlar, qirg'oq mintaqalari, ko'llar va daryolarning fizik xususiyatlarini o'lchash va tavsiflash bilan shug'ullanadigan amaliy fan sohasi",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "Muayyan suv havzalarining tavsiflarini o'rganadigan gidrologiya bo'limining nomi nima",
+    options: [
+      "gidrografiya",
+      "gidrometriya",
+      "muhandislik gidrologiyasi",
+      "gidrogeologiya",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "Daryolarni texnik foydalanish nuqtai nazaridan o'rganish bilan shug'ullanadigan gidrologiya bo'limining nomi nima?",
+    options: [
+      "muhandislik gidrologiyasi",
+      "gidrometriya",
+      "gidrografiya",
+      "gidrogeologiya",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "Agar yog'ingarchilik 5 million km3 bo'lsa va bug'lanish 1 million km3 bo'lsa, havzaning suv balansi tenglamasiga ko'ra Daryo oqimi qanday",
+    options: [
+      "4 million km3",
+      "6 million km3",
+      "5 million km3",
+      "2 million km3",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "Agar Daryo oqimi 10 000 km 3 va yog'ingarchilik 18 000 km 3 bo'lsa, Daryo havzasining suv balansi tenglamasiga ko'ra bug'lanish nimaga teng?",
+    options: [
+      "8000 km3",
+      "28000km3",
+      "16000 km3",
+      "4000 km3",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "Agar Daryo oqimi 10 000 km 3 va bug'lanish 2 000 km 3 bo'lsa, Daryo havzasining suv balansi tenglamasiga ko'ra yog'ingarchilikning hajmi nechaga teng?",
+    options: [
+      "12000 km3",
+      "8000 km3",
+      "6	6000 km3",
+      "4000 km3",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "Daryo oqimi 10000 km 3  va bug'lanish 5000 km 3 bo'lgan xolatlar ucun oqim koeffitsientini aniqlang?",
+    options: [
+      "0,667",
+      "0,5",
+      "2,0",
+      "1,556",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "yog'ingarchilik 10000 km 3 va bug'lanish 5000 km 3 bo'lgan xolatlar uchun  oqim koeffitsientini aniqlang ?",
+    options: [
+      "0,5",
+      "0,2",
+      "2,0",
+      "1,5",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "Suv sarfini ta’riflab bering",
+    options: [
+      "vaqt birligi uchun daryoning kesmasi orqali oqib o'tadigan suv miqdori",
+      "muayyan vaqt davomida ma'lum bir yo'ldan oqib o'tadigan suv miqdori",
+      "suv yig'ish maydonidan birlik vaqtiga oqib tushadigan suv miqdori (oqim tezligi) ",
+      "muayyan vaqt davomida ma'lum bir yo'l orqali oqib o'tadigan suv miqdori, suv yig'ish maydonining birligiga tegishli",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "Suv oqimini ta’riflab bering",
+    options: [
+      "muayyan vaqt davomida ma'lum bir yo'ldan oqib o'tadigan suv miqdori",
+      "vaqt birligi uchun daryoning kesmasi orqali oqib o'tadigan suv miqdori",
+      "suv yig'ish maydonidan birlik vaqtiga oqib tushadigan suv miqdori (oqim tezligi) ",
+      "muayyan vaqt davomida ma'lum bir yo'l orqali oqib o'tadigan suv miqdori, suv yig'ish maydonining birligiga tegishli",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "Oqim modulini ta’riflab bering",
+    options: [
+      "suv yig'ish maydonidan birlik vaqtiga oqib tushadigan suv miqdori (oqim tezligi) ",
+      "muayyan vaqt davomida ma'lum bir yo'ldan oqib o'tadigan suv miqdori",
+      "vaqt birligi uchun daryoning kesmasi orqali oqib o'tadigan suv miqdori",
+      "muayyan vaqt davomida ma'lum bir yo'l orqali oqib o'tadigan suv miqdori, suv yig'ish maydonining birligiga tegishli",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "Oqim qatlamini ta’riflab bering",
+    options: [
+      "muayyan vaqt davomida ma'lum bir yo'l orqali oqib o'tadigan suv miqdori, suv yig'ish maydonining birligiga tegishli",
+      "muayyan vaqt davomida ma'lum bir yo'ldan oqib o'tadigan suv miqdori",
+      "suv yig'ish maydonidan birlik vaqtiga oqib tushadigan suv miqdori (oqim tezligi) ",
+      "vaqt birligi uchun daryoning kesmasi orqali oqib o'tadigan suv miqdori",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "",
+    options: [
+      "",
+      "",
+      "",
+      "",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "",
+    options: [
+      "",
+      "",
+      "",
+      "",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "",
+    options: [
+      "",
+      "",
+      "",
+      "",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "",
+    options: [
+      "",
+      "",
+      "",
+      "",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "",
+    options: [
+      "",
+      "",
+      "",
+      "",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "",
+    options: [
+      "",
+      "",
+      "",
+      "",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "",
+    options: [
+      "",
+      "",
+      "",
+      "",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "",
+    options: [
+      "",
+      "",
+      "",
+      "",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "",
+    options: [
+      "",
+      "",
+      "",
+      "",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "",
+    options: [
+      "",
+      "",
+      "",
+      "",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "",
+    options: [
+      "",
+      "",
+      "",
+      "",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "",
+    options: [
+      "",
+      "",
+      "",
+      "",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "",
+    options: [
+      "",
+      "",
+      "",
+      "",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "",
+    options: [
+      "",
+      "",
+      "",
+      "",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "",
+    options: [
+      "",
+      "",
+      "",
+      "",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "",
+    options: [
+      "",
+      "",
+      "",
+      "",
+    ],
+    rightAnswer: 1,
+  },
+  {
+    question: 
+      "",
+    options: [
+      "",
+      "",
+      "",
+      "",
+    ],
+    rightAnswer: 1,
+  },
 ];
 
 numberOfAllQuestion.innerHTML = questions.length;
